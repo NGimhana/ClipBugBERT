@@ -1,0 +1,35 @@
+{"image_id":66,"labels":{"Launch":1},"question_id":660,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":66}
+{"image_id":67,"labels":{"Link":1},"question_id":670,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":67}
+{"image_id":68,"labels":{"Link":1},"question_id":680,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":68}
+{"image_id":69,"labels":{"Email":1},"question_id":690,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":69}
+{"image_id":70,"labels":{"Swipe Down":1},"question_id":700,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":70}
+{"image_id":71,"labels":{"Close button":1},"question_id":710,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":71}
+{"image_id":72,"labels":{"Swipe right":0.5,"Push Notification":0.5},"question_id":720,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":72}
+{"image_id":73,"labels":{"Swipe right":0.5,"Scroll":0.5},"question_id":730,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":73}
+{"image_id":74,"labels":{"Browser":0.5,"Naked Browser":0.5},"question_id":740,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":74}
+{"image_id":75,"labels":{"Search":0.5,"Scroll":0.5},"question_id":750,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":75}
+{"image_id":76,"labels":{"Register":0.5,"Login":0.5},"question_id":760,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":76}
+{"image_id":77,"labels":{"Close button":0.5,"Swipe left":0.5},"question_id":770,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":77}
+{"image_id":78,"labels":{"Back Button":0.5,"Scroll":0.5},"question_id":780,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":78}
+{"image_id":79,"labels":{"My Magazines":0.5,"Store":0.5},"question_id":790,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":79}
+{"image_id":80,"labels":{"Menu":0.5,"Scroll":0.5},"question_id":800,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":80}
+{"image_id":81,"labels":{"Buy":0.5,"Back button":0.5},"question_id":810,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":81}
+{"image_id":82,"labels":{"Scroll":0.5,"Close":0.5},"question_id":820,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":82}
+{"image_id":83,"labels":{"Back Button":0.5,"Mail":0.5},"question_id":830,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":83}
+{"image_id":84,"labels":{"Edit":0.5,"Continue":0.5},"question_id":840,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":84}
+{"image_id":85,"labels":{"Just Once":0.5,"Always":0.5},"question_id":850,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":85}
+{"image_id":86,"labels":{"Visit Leaf":0.5,"Close Button":0.5},"question_id":860,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":86}
+{"image_id":87,"labels":{"Search":0.5,"Settings":0.5},"question_id":870,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":87}
+{"image_id":88,"labels":{"INSTALL":0.5,"Close button":0.5},"question_id":880,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":88}
+{"image_id":89,"labels":{"Back Button":0.5,"Scroll":0.5},"question_id":890,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":89}
+{"image_id":90,"labels":{"Learn more":0.5,"Continue":0.5},"question_id":900,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":90}
+{"image_id":91,"labels":{"Play Tips":0.33,"Privacy Statement":0.33,"Close":0.33},"question_id":910,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":91}
+{"image_id":92,"labels":{"Email":0.33,"Password":0.33,"Get Started":0.33},"question_id":920,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":92}
+{"image_id":93,"labels":{"User Name":0.33,"Password":0.33,"Log in":0.33},"question_id":930,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":93}
+{"image_id":94,"labels":{"Facebook":0.33,"Twitter":0.33,"Sign up":0.33},"question_id":940,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":94}
+{"image_id":94,"labels":{"Guest":0.33,"Sign in":0.33,"Sign up":0.33},"question_id":941,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":94}
+{"image_id":96,"labels":{"Log in":0.33,"Forgot Password":0.33,"Dont have account?":0.33},"question_id":960,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":96}
+{"image_id":97,"labels":{"Send":0.33,"Start":0.33,"Stop":0.33},"question_id":970,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":97}
+{"image_id":98,"labels":{"INSTALL":1},"question_id":980,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":98}
+{"image_id":99,"labels":{"Back Button":0.25,"Settings":0.25,"Read and sing":0.25,"Read and Play":0.25},"question_id":990,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":99}
+{"image_id":100,"labels":{"Choose a model":0.2,"Take a photo":0.2,"Upload a photo":0.2,"Quick Start":0.2,"Feedback":0.2},"question_id":1000,"answer_type":"other","question_type":"what","question":"What will be your tap","file_id":100}

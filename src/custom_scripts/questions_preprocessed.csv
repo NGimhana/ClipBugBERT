@@ -1,0 +1,118 @@
+video_id,question,answer,answer_type
+video0,what is clicking first?,settings,what
+video0,what is done to proxy?,scroll,what
+video0,what is this video about?,configuration,what
+video1,what is clicking first?,add,what
+video1,what is clicking?,fyyd,what
+video1,what is clicking after Add Podcast?,fyyd,what
+video1,what is done to Search fyyd Button?,clicking,what
+video1,what is done to Add Podcast Button?,clicking,what
+video1,what is typing?,music,what
+video1,where to click on the first item,in,where
+video1,what button is clicking?,subscribe,what
+video1,what is done to subscribe Button?,clicking,what
+video1,what is clicking after clicking the first item on the list?,button,what
+video1,what is clicking after clicking subscribe button?,button,what
+video1,what is this video about?,all,what
+video2,what is done to Open Podcast Button?,clicking,what
+video2,what is clicking first?,subscription,what
+video2,what is this video about?,color,what
+video3,"what is the purpose of clicking the ""Settings"" and ""OPML export"" items?",export,what
+video3,"Where do you find the ""Settings"" and ""OPML export"" item?",menu,Where
+video3,what is this video about?,an,what
+video4,what is this video about?,application,what
+video4,What is the first step to import an OPML file?,add,What
+video5,"what is the purpose of clicking on the ""Settings"" button?",access,what
+video5,what is this video about?,app,what
+video5,"what option should you select after scrolling up to ""Proxy""?",click,what
+video5,how do you access the settings menu in the mobile application?,button,how
+video5,how do you change the proxy settings?,after,how
+video5,"where can you find the ""Proxy"" option?",and,where
+video5,where do you need to go to change the proxy settings in the mobile application?,and,where
+video5,"when should you click on the ""Settings"" button in the mobile application?",access,when
+video6,what is the first button you need to click when adding a podcast?,add,what
+video6,"what is the purpose of clicking the ""Subscribe"" button?",and,what
+video6,what is this video about?,app,what
+video6,"what is the purpose of clicking the ""Stream"" button?",episode,what
+video6,"what is the purpose of clicking the ""zzz"" button?",snooze,what
+video6,how do you add a podcast in the mobile application?,add,how
+video6,how do you subscribe to a podcast?,after,how
+video6,how do you start streaming a podcast episode?,an,how
+video6,"where is the ""Add Podcast"" button located in the mobile application",add,where
+video6,where do you need to go to select a podcast to subscribe to in the mobile application?,add,where
+video6,where can you find the podcast episodes list?,access,where
+video6,"where is the ""zzz"" button located in the mobile application",corner,where
+video6,"when should you click on the ""Add Podcast"" button?",add,when
+video6,"when should you click on the ""Subscribe"" button?",after,when
+video7,"what is the purpose of clicking the ""Search"" icon?",activate,what
+video7,what is the purpose of clicking the back button?,back,what
+video7,what is this video about?,after,what
+video7,how do you add a podcast in the mobile application?,add,how
+video7,how do you activate the search function in the mobile application?,activate,how
+video7,how do you go back to the previous screen or menu?,back,how
+video7,"where is the ""Add Podcast"" button located?",menu,where
+video7,where do you need to go to activate the search function?,activate,where
+video7,where is the back button located in the mobile application,back,where
+video8,what is the name of the item you need to select to access your gpodder.net account settings,click,what
+video8,what is this video about?,authentication,what
+video8,what is the name of the button you need to click to log in to your gpodder.net account?,button,what
+video8,how do you access the gpodder.net login screen in the mobile application,access,how
+video8,how do you add a new podcast to your list?,add,how
+video9,how to search for podcasts in the iTunes directory?,add,how
+video9,"how to delete text in the ""Search iTunes"" field?",button,how
+video9,what is this video about?,output,
+video10,what button do you click first?,next,what
+video10,what is this video about?,app,what
+video10,what option do you select after clicking 'Next'?,usd,what
+video10,where do you find the 'Export' option in the menu?,export,where
+video10,what account type do you select?,handle,what
+video10,what do you click after selecting 'Let me Handle it'?,crash,what
+video10,what do you click after disabling crash reports?,allow,what
+video10,where do you export the file to?,card,where
+video10,how do you export the file after selecting the export location?,button,how
+video11,what was clicked after reopening the app?,after,what
+video11,"how much was entered in the ""Amount"" field for the ""Salary"" card?",1000,how
+video11,what is this video about?,card,what
+video11,"where was the ""Books"" card located?",button,where
+video11,"when was the ""Credit Card"" card created?",after,when
+video11,"what was clicked after clicking the ""Expenses"" button?",after,what
+video11,"how was the ""Credit Card"" card described in the ""Description"" field?",cc,how
+video12,how do you change the passcode?,click,how
+video12,where do you find the option to change the passcode?,app,where
+video12,what is this video about?,app,what
+video13,"what is the first button click after clicking ""OK""?",button,what
+video13,what is this video about?,cannot,what
+video13,how do you add a new task in the app?,add,how
+video13,"where is the ""Add a new time range"" button located?",corner,where
+video13,"when do you click the ""Move Time"" button?",after,when
+video13,"what happens when you click the ""Show Times"" button on the ""Test"" card?",for,what
+video14,what was the first button clicked?,ok,what
+video14,how did the user add a new time range?,add,how
+video14,what is this video about?,bar,what
+video15,"what is the first button click after clicking ""OK""?",button,what
+video15,how do you add a new task?,add,how
+video15,how many time ranges were added?,two,how
+video15,"Where is the ""Add new time range"" button located?",corner,Where
+video15,When were the time ranges added?,45,When
+video15,what is this video about?,app,what
+video16,What is the text added to the task field?,task1,What
+video16,How was the task added,add,How
+video16,what is this video about?,adding,what
+video17,what button should be clicked to add a token?,button,what
+video17,how do you add a time token?,add,how
+video17,"where can you find the ""Name"" and ""Serial number"" fields when adding a time token?",add,where
+video17,what is this video about?,app,what
+video18,what is this video about?,app,what
+video18,What is the button clicked first?,corner,What
+video18,How do you change the PIN?,button,How
+video18,Where is the Remove Pin button located?,corner,Where
+video19,"What is the purpose of the ""Add Token"" button?",add,What
+video19,How do you generate a random seed for a token?,button,How
+video19,"Where can you find the ""test"" card after adding a token?",adding,Where
+video19,"When should you click the ""complete"" button?",after,When
+video19,what is this video about?,app,what
+video20,"What is the purpose of selecting the ""Event Token"" button?",an,What
+video20,How is the name of the token set?,field,How
+video20,Where is the Serial No text field located?,field,Where
+video20,When is the Generate Random Seed button clicked?,after,When
+video20,what is this video about?,defined,what

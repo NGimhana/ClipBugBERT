@@ -1,0 +1,90 @@
+{"video_id": "video0", "question": "what is clicking first?", "answer": "settings", "answer_type": "what"}
+{"video_id": "video0", "question": "what is done to proxy?", "answer": "scroll", "answer_type": "what"}
+{"video_id": "video0", "question": "what is this video about?", "answer": "configuration", "answer_type": "what"}
+{"video_id": "video1", "question": "what is clicking first?", "answer": "add", "answer_type": "what"}
+{"video_id": "video1", "question": "what is clicking?", "answer": "fyyd", "answer_type": "what"}
+{"video_id": "video1", "question": "what is clicking after add podcast?", "answer": "fyyd", "answer_type": "what"}
+{"video_id": "video1", "question": "what is done to search fyyd button?", "answer": "clicking", "answer_type": "what"}
+{"video_id": "video1", "question": "what is done to add podcast button?", "answer": "clicking", "answer_type": "what"}
+{"video_id": "video1", "question": "what is typing?", "answer": "music", "answer_type": "what"}
+{"video_id": "video1", "question": "where to click on the first item", "answer": "in", "answer_type": "where"}
+{"video_id": "video1", "question": "what button is clicking?", "answer": "subscribe", "answer_type": "what"}
+{"video_id": "video1", "question": "what is done to subscribe button?", "answer": "clicking", "answer_type": "what"}
+{"video_id": "video1", "question": "what is clicking after clicking the first item on the list?", "answer": "button", "answer_type": "what"}
+{"video_id": "video1", "question": "what is clicking after clicking subscribe button?", "answer": "button", "answer_type": "what"}
+{"video_id": "video1", "question": "what is this video about?", "answer": "all", "answer_type": "what"}
+{"video_id": "video2", "question": "what is done to open podcast button?", "answer": "clicking", "answer_type": "what"}
+{"video_id": "video2", "question": "what is clicking first?", "answer": "subscription", "answer_type": "what"}
+{"video_id": "video2", "question": "what is this video about?", "answer": "color", "answer_type": "what"}
+{"video_id": "video3", "question": "what is the purpose of clicking the \"settings\" and \"opml export\" items?", "answer": "export", "answer_type": "what"}
+{"video_id": "video3", "question": "where do you find the \"settings\" and \"opml export\" item?", "answer": "menu", "answer_type": "Where"}
+{"video_id": "video3", "question": "what is this video about?", "answer": "an", "answer_type": "what"}
+{"video_id": "video4", "question": "what is this video about?", "answer": "application", "answer_type": "what"}
+{"video_id": "video4", "question": "what is the first step to import an opml file?", "answer": "add", "answer_type": "What"}
+{"video_id": "video5", "question": "what is the purpose of clicking on the \"settings\" button?", "answer": "access", "answer_type": "what"}
+{"video_id": "video5", "question": "what is this video about?", "answer": "app", "answer_type": "what"}
+{"video_id": "video5", "question": "what option should you select after scrolling up to \"proxy\"?", "answer": "click", "answer_type": "what"}
+{"video_id": "video5", "question": "how do you access the settings menu in the mobile application?", "answer": "button", "answer_type": "how"}
+{"video_id": "video5", "question": "how do you change the proxy settings?", "answer": "after", "answer_type": "how"}
+{"video_id": "video5", "question": "where can you find the \"proxy\" option?", "answer": "and", "answer_type": "where"}
+{"video_id": "video5", "question": "where do you need to go to change the proxy settings in the mobile application?", "answer": "and", "answer_type": "where"}
+{"video_id": "video5", "question": "when should you click on the \"settings\" button in the mobile application?", "answer": "access", "answer_type": "when"}
+{"video_id": "video6", "question": "what is the first button you need to click when adding a podcast?", "answer": "add", "answer_type": "what"}
+{"video_id": "video6", "question": "what is the purpose of clicking the \"subscribe\" button?", "answer": "and", "answer_type": "what"}
+{"video_id": "video6", "question": "what is this video about?", "answer": "app", "answer_type": "what"}
+{"video_id": "video6", "question": "what is the purpose of clicking the \"stream\" button?", "answer": "episode", "answer_type": "what"}
+{"video_id": "video6", "question": "what is the purpose of clicking the \"zzz\" button?", "answer": "snooze", "answer_type": "what"}
+{"video_id": "video6", "question": "how do you add a podcast in the mobile application?", "answer": "add", "answer_type": "how"}
+{"video_id": "video6", "question": "how do you subscribe to a podcast?", "answer": "after", "answer_type": "how"}
+{"video_id": "video6", "question": "how do you start streaming a podcast episode?", "answer": "an", "answer_type": "how"}
+{"video_id": "video6", "question": "where is the \"add podcast\" button located in the mobile application", "answer": "add", "answer_type": "where"}
+{"video_id": "video6", "question": "where do you need to go to select a podcast to subscribe to in the mobile application?", "answer": "add", "answer_type": "where"}
+{"video_id": "video6", "question": "where can you find the podcast episodes list?", "answer": "access", "answer_type": "where"}
+{"video_id": "video6", "question": "where is the \"zzz\" button located in the mobile application", "answer": "corner", "answer_type": "where"}
+{"video_id": "video6", "question": "when should you click on the \"add podcast\" button?", "answer": "add", "answer_type": "when"}
+{"video_id": "video6", "question": "when should you click on the \"subscribe\" button?", "answer": "after", "answer_type": "when"}
+{"video_id": "video7", "question": "what is the purpose of clicking the \"search\" icon?", "answer": "activate", "answer_type": "what"}
+{"video_id": "video7", "question": "what is the purpose of clicking the back button?", "answer": "back", "answer_type": "what"}
+{"video_id": "video7", "question": "what is this video about?", "answer": "after", "answer_type": "what"}
+{"video_id": "video7", "question": "how do you add a podcast in the mobile application?", "answer": "add", "answer_type": "how"}
+{"video_id": "video7", "question": "how do you activate the search function in the mobile application?", "answer": "activate", "answer_type": "how"}
+{"video_id": "video7", "question": "how do you go back to the previous screen or menu?", "answer": "back", "answer_type": "how"}
+{"video_id": "video7", "question": "where is the \"add podcast\" button located?", "answer": "menu", "answer_type": "where"}
+{"video_id": "video7", "question": "where do you need to go to activate the search function?", "answer": "activate", "answer_type": "where"}
+{"video_id": "video7", "question": "where is the back button located in the mobile application", "answer": "back", "answer_type": "where"}
+{"video_id": "video8", "question": "what is the name of the item you need to select to access your gpodder.net account settings", "answer": "click", "answer_type": "what"}
+{"video_id": "video8", "question": "what is this video about?", "answer": "authentication", "answer_type": "what"}
+{"video_id": "video8", "question": "what is the name of the button you need to click to log in to your gpodder.net account?", "answer": "button", "answer_type": "what"}
+{"video_id": "video8", "question": "how do you access the gpodder.net login screen in the mobile application", "answer": "access", "answer_type": "how"}
+{"video_id": "video8", "question": "how do you add a new podcast to your list?", "answer": "add", "answer_type": "how"}
+{"video_id": "video9", "question": "how to search for podcasts in the itunes directory?", "answer": "add", "answer_type": "how"}
+{"video_id": "video9", "question": "how to delete text in the \"search itunes\" field?", "answer": "button", "answer_type": "how"}
+{"video_id": "video9", "question": "what is this video about?", "answer": "output", "answer_type": ""}
+{"video_id": "video10", "question": "what button do you click first?", "answer": "next", "answer_type": "what"}
+{"video_id": "video10", "question": "what is this video about?", "answer": "app", "answer_type": "what"}
+{"video_id": "video10", "question": "what option do you select after clicking 'next'?", "answer": "usd", "answer_type": "what"}
+{"video_id": "video10", "question": "where do you find the 'export' option in the menu?", "answer": "export", "answer_type": "where"}
+{"video_id": "video10", "question": "what account type do you select?", "answer": "handle", "answer_type": "what"}
+{"video_id": "video10", "question": "what do you click after selecting 'let me handle it'?", "answer": "crash", "answer_type": "what"}
+{"video_id": "video10", "question": "what do you click after disabling crash reports?", "answer": "allow", "answer_type": "what"}
+{"video_id": "video10", "question": "where do you export the file to?", "answer": "card", "answer_type": "where"}
+{"video_id": "video10", "question": "how do you export the file after selecting the export location?", "answer": "button", "answer_type": "how"}
+{"video_id": "video11", "question": "what was clicked after reopening the app?", "answer": "after", "answer_type": "what"}
+{"video_id": "video11", "question": "how much was entered in the \"amount\" field for the \"salary\" card?", "answer": "1000", "answer_type": "how"}
+{"video_id": "video11", "question": "what is this video about?", "answer": "card", "answer_type": "what"}
+{"video_id": "video11", "question": "where was the \"books\" card located?", "answer": "button", "answer_type": "where"}
+{"video_id": "video11", "question": "when was the \"credit card\" card created?", "answer": "after", "answer_type": "when"}
+{"video_id": "video11", "question": "what was clicked after clicking the \"expenses\" button?", "answer": "after", "answer_type": "what"}
+{"video_id": "video11", "question": "how was the \"credit card\" card described in the \"description\" field?", "answer": "cc", "answer_type": "how"}
+{"video_id": "video12", "question": "how do you change the passcode?", "answer": "click", "answer_type": "how"}
+{"video_id": "video12", "question": "where do you find the option to change the passcode?", "answer": "app", "answer_type": "where"}
+{"video_id": "video12", "question": "what is this video about?", "answer": "app", "answer_type": "what"}
+{"video_id": "video13", "question": "what is the first button click after clicking \"ok\"?", "answer": "button", "answer_type": "what"}
+{"video_id": "video13", "question": "what is this video about?", "answer": "cannot", "answer_type": "what"}
+{"video_id": "video13", "question": "how do you add a new task in the app?", "answer": "add", "answer_type": "how"}
+{"video_id": "video13", "question": "where is the \"add a new time range\" button located?", "answer": "corner", "answer_type": "where"}
+{"video_id": "video13", "question": "when do you click the \"move time\" button?", "answer": "after", "answer_type": "when"}
+{"video_id": "video13", "question": "what happens when you click the \"show times\" button on the \"test\" card?", "answer": "for", "answer_type": "what"}
+{"video_id": "video14", "question": "what was the first button clicked?", "answer": "ok", "answer_type": "what"}
+{"video_id": "video14", "question": "how did the user add a new time range?", "answer": "add", "answer_type": "how"}
+{"video_id": "video14", "question": "what is this video about?", "answer": "bar", "answer_type": "what"}

@@ -1,0 +1,27 @@
+{"video_id": "video15", "question": "what is the first button click after clicking \"ok\"?", "answer": "button", "answer_type": "what"}
+{"video_id": "video15", "question": "how do you add a new task?", "answer": "add", "answer_type": "how"}
+{"video_id": "video15", "question": "how many time ranges were added?", "answer": "two", "answer_type": "how"}
+{"video_id": "video15", "question": "where is the \"add new time range\" button located?", "answer": "corner", "answer_type": "where"}
+{"video_id": "video15", "question": "when were the time ranges added?", "answer": "45", "answer_type": "when"}
+{"video_id": "video15", "question": "what is this video about?", "answer": "App Crashed when changing chagning a new time range", "answer_type": "what"}
+{"video_id": "video16", "question": "what is the text added to the task field?", "answer": "task1", "answer_type": "what"}
+{"video_id": "video16", "question": "how was the task added", "answer": "add", "answer_type": "how"}
+{"video_id": "video16", "question": "what is this video about?", "answer": "App crashed when adding a new task", "answer_type": "what"}
+{"video_id": "video17", "question": "what button should be clicked to add a token?", "answer": "button", "answer_type": "what"}
+{"video_id": "video17", "question": "how do you add a time token?", "answer": "add", "answer_type": "how"}
+{"video_id": "video17", "question": "where can you find the \"name\" and \"serial number\" fields when adding a time token?", "answer": "add", "answer_type": "where"}
+{"video_id": "video17", "question": "what is this video about?", "answer": "App crashed when generating a random seed token", "answer_type": "what"}
+{"video_id": "video18", "question": "what is this video about?", "answer": "Remove pin crash the app", "answer_type": "what"}
+{"video_id": "video18", "question": "what is the button clicked first?", "answer": "corner", "answer_type": "what"}
+{"video_id": "video18", "question": "how do you change the pin?", "answer": "button", "answer_type": "how"}
+{"video_id": "video18", "question": "where is the remove pin button located?", "answer": "corner", "answer_type": "where"}
+{"video_id": "video19", "question": "what is the purpose of the \"add token\" button?", "answer": "add", "answer_type": "what"}
+{"video_id": "video19", "question": "how do you generate a random seed for a token?", "answer": "button", "answer_type": "how"}
+{"video_id": "video19", "question": "where can you find the \"test\" card after adding a token?", "answer": "adding", "answer_type": "where"}
+{"video_id": "video19", "question": "when should you click the \"complete\" button?", "answer": "after", "answer_type": "when"}
+{"video_id": "video19", "question": "what is this video about?", "answer": "When selecting a token generated with a Random seed crashes the app.", "answer_type": "what"}
+{"video_id": "video20", "question": "what is the purpose of selecting the \"event token\" button?", "answer": "an", "answer_type": "what"}
+{"video_id": "video20", "question": "how is the name of the token set?", "answer": "field", "answer_type": "how"}
+{"video_id": "video20", "question": "where is the serial no text field located?", "answer": "field", "answer_type": "where"}
+{"video_id": "video20", "question": "when is the generate random seed button clicked?", "answer": "after", "answer_type": "when"}
+{"video_id": "video20", "question": "what is this video about?", "answer": "No Token defined error when using Random Seed Generator", "answer_type": "what"}
