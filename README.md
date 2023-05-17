@@ -6,7 +6,7 @@ Adapted model from ClipBERT
 1. Clone the project: 
         ``` git clone https://github.com/NGimhana/ClipBugBERT.git ```
 2. Create a virtual python environment and activate the venv
-                ```python3 -m venv clipbugbert_env```
+                ```python3 -m venv clipbugbert_env```, To activate 
                 ```source clipbugbert_env/bin/activate```
 
 3. Nevigate to ClipBugBERT/docker directory.  Install the requirement.txt file.
