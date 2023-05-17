@@ -4,10 +4,10 @@ Adapted model from ClipBERT
 
 ## Seting up the Environment and dependencies 
 1. Clone the project: 
-        ```bash git clone URL/to/repo ```
+        ``` git clone URL/to/repo ```
 2. Create a virtual python environment and activate the venv
 3. Nevigate to ClipBugBERT/docker directory.  Install the requirements.txt file.
-         ```bash pip install requirement.txt  ```
+         ``` pip install requirement.txt  ```
 4. The ClipBert model uses "Apex" library which is not a torch library. Apex is a library developed by NVIDIA that enables mixed precision training in PyTorch. So if the requirement.txt installation fails to install "Apex" the manual installation will be required.
 5. Installing Apex: 
     - Make sure you have CUDA installed on your system. You can check by running nvcc --version. If it's not installed, you can follow the instructions on the official NVIDIA website to install it.
