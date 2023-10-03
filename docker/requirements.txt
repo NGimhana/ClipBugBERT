@@ -18,3 +18,4 @@ av==8.0.2
 opencv-python-headless<4.3
 ujson
 wandb
+debugpy
