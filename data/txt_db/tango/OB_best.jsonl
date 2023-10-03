@@ -1,0 +1,60 @@
+{"caption": "incorrect focus on port text filed", "clip_name": "APOD-CC1", "retrieval_key": "ret0"}
+{"caption": "date is Jan 2, 1970 for all podcasts", "clip_name": "APOD-CC2", "retrieval_key": "ret1"}
+{"caption": "the number inside the subscriptions box is red", "clip_name": "APOD-CC3", "retrieval_key": "ret2"}
+{"caption": "export error", "clip_name": "APOD-CC4", "retrieval_key": "ret3"}
+{"caption": "opml Import stops the application", "clip_name": "APOD-CC5", "retrieval_key": "ret4"}
+{"caption": "set a network proxy crashes the app", "clip_name": "APOD-CC6", "retrieval_key": "ret5"}
+{"caption": "tap zzz crashes the app", "clip_name": "APOD-CC7", "retrieval_key": "ret6"}
+{"caption": "no value for feedurl error overlaps", "clip_name": "APOD-CC8", "retrieval_key": "ret7"}
+{"caption": "login with Gpodder.net crashes", "clip_name": "APOD-CC9", "retrieval_key": "ret8"}
+{"caption": "search mis gives no value for feedurl error", "clip_name": "APOD-RB", "retrieval_key": "ret9"}
+{"caption": "time disappear when click move time ", "clip_name": "TIME-CC1", "retrieval_key": "ret10"}
+{"caption": "time on the top don't clear when click delete task", "clip_name": "TIME-CC2", "retrieval_key": "ret11"}
+{"caption": "when edit time of a task and click ok crashes", "clip_name": "TIME-CC3", "retrieval_key": "ret12"}
+{"caption": "click on add new time range crashes the app", "clip_name": "TIME-CC4", "retrieval_key": "ret13"}
+{"caption": "start time is not 12:27 and date is not Tue, Jun 23", "clip_name": "TIME-CC5", "retrieval_key": "ret14"}
+{"caption": "edit task name crashes the app", "clip_name": "TIME-CC6", "retrieval_key": "ret15"}
+{"caption": "export view to csv crashes the app", "clip_name": "TIME-CC7", "retrieval_key": "ret16"}
+{"caption": "add task crashes the app", "clip_name": "TIME-CC8", "retrieval_key": "ret17"}
+{"caption": "open settings crashes the app", "clip_name": "TIME-CC9", "retrieval_key": "ret18"}
+{"caption": "restore from backup crashes the app", "clip_name": "TIME-RC", "retrieval_key": "ret19"}
+{"caption": "all backups have date Jan 2, 1970", "clip_name": "GNU-CC1", "retrieval_key": "ret20"}
+{"caption": "enable owncloud crashes the app", "clip_name": "GNU-CC2", "retrieval_key": "ret21"}
+{"caption": "click on passcode turned off crashes the app", "clip_name": "GNU-CC3", "retrieval_key": "ret22"}
+{"caption": "sd card export crashes the app", "clip_name": "GNU-CC4", "retrieval_key": "ret23"}
+{"caption": "created backups not shown. No backups found", "clip_name": "GNU-CC5", "retrieval_key": "ret24"}
+{"caption": "balance sheet doesn't show sub accounts and their balance", "clip_name": "GNU-CC6", "retrieval_key": "ret25"}
+{"caption": "entering a passcode crashes the app", "clip_name": "GNU-CC7", "retrieval_key": "ret26"}
+{"caption": "viewing the transactions in scheduled actions crashes the app", "clip_name": "GNU-CC8", "retrieval_key": "ret27"}
+{"caption": "records duplicated after coming back from settings", "clip_name": "GNU-CC9", "retrieval_key": "ret28"}
+{"caption": "creating account name with an apostrophe crashes app", "clip_name": "GNU-RC", "retrieval_key": "ret29"}
+{"caption": "date of the record is saved as 02/01/1970", "clip_name": "DROID-CC1", "retrieval_key": "ret30"}
+{"caption": "edit weight popup shows the recorded date as 02/01/1970, which is changed to 11/07/202 if press go button", "clip_name": "DROID-CC2", "retrieval_key": "ret31"}
+{"caption": "edit a weight record with 0 crashes the app", "clip_name": "DROID-CC3", "retrieval_key": "ret32"}
+{"caption": "clicking statistics after create a record crashes the app", "clip_name": "DROID-CC4", "retrieval_key": "ret33"}
+{"caption": "click go button in bmi calculator crashes the app", "clip_name": "DROID-CC5", "retrieval_key": "ret34"}
+{"caption": "add a previous comment to a weight record crashes the app", "clip_name": "DROID-CC6", "retrieval_key": "ret35"}
+{"caption": "click preferences crashes the app", "clip_name": "DROID-CC7", "retrieval_key": "ret36"}
+{"caption": "click reminders crashes the app", "clip_name": "DROID-CC8", "retrieval_key": "ret37"}
+{"caption": "The app crashes when a reminder executes", "clip_name": "DROID-CC9", "retrieval_key": "ret38"}
+{"caption": "The statistics labels and values are not shown", "clip_name": "DROID-CC11", "retrieval_key": "ret39"}
+{"caption": "plant date is should be 06/30/2020", "clip_name": "GROW-CC1", "retrieval_key": "ret40"}
+{"caption": "The color of the menu text is yellow", "clip_name": "GROW-CC2", "retrieval_key": "ret41"}
+{"caption": "click feed crashes the app", "clip_name": "GROW-CC3", "retrieval_key": "ret42"}
+{"caption": "click view statistics crashes the app", "clip_name": "GROW-CC4", "retrieval_key": "ret43"}
+{"caption": "add number to feeding additive crashes the app", "clip_name": "GROW-CC5", "retrieval_key": "ret44"}
+{"caption": "click new garden crashes the app", "clip_name": "GROW-CC6", "retrieval_key": "ret45"}
+{"caption": "click + button in main screen crashes the app", "clip_name": "GROW-CC7", "retrieval_key": "ret46"}
+{"caption": "add a comment to a photo crashes the app", "clip_name": "GROW-CC8", "retrieval_key": "ret47"}
+{"caption": "menu header does not appear", "clip_name": "GROW-CC9", "retrieval_key": "ret48"}
+{"caption": "duplicate an entry crashes the app", "clip_name": "GROW-RC", "retrieval_key": "ret49"}
+{"caption": "When trying to define a seed for a new token, if you go back from the screen where you define the token seed you are taken to the main screen", "clip_name": "TOK-RB", "retrieval_key": "ret50"}
+{"caption": "three dots in menu bar disappear after generating a new PIN, closing app and using PIN to log back in", "clip_name": "TOK-CC1", "retrieval_key": "ret51"}
+{"caption": "delete a token crashes the app", "clip_name": "TOK-CC2", "retrieval_key": "ret52"}
+{"caption": "generate random seed crashes the app", "clip_name": "TOK-CC3", "retrieval_key": "ret53"}
+{"caption": "create new time token crashes the app", "clip_name": "TOK-CC4", "retrieval_key": "ret54"}
+{"caption": "click remove pin crashes the app", "clip_name": "TOK-CC5", "retrieval_key": "ret55"}
+{"caption": "click on a token crashes app", "clip_name": "TOK-CC6", "retrieval_key": "ret56"}
+{"caption": "new token does not appear in the list of tokens", "clip_name": "TOK-CC7", "retrieval_key": "ret57"}
+{"caption": "After generating a new token and being returned to the main menu, the keyboard for entering numbers pops up even though the app does not ask for numbers", "clip_name": "TOK-CC8", "retrieval_key": "ret58"}
+{"caption": "change the pin and save crashes the app", "clip_name": "TOK-CC9", "retrieval_key": "ret59"}

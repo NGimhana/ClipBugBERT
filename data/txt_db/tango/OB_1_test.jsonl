@@ -1,0 +1,60 @@
+{"caption": "port field has incorrect focus in proxy configuration", "clip_name": "APOD-CC1", "retrieval_key": "ret0"}
+{"caption": "date for uploaded podcast is the same for all the podcast", "clip_name": "APOD-CC2", "retrieval_key": "ret1"}
+{"caption": "color of number of podcast per subscription is semi-transparent red color", "clip_name": "APOD-CC3", "retrieval_key": "ret2"}
+{"caption": "there is an error while exporting data (OPML)", "clip_name": "APOD-CC4", "retrieval_key": "ret3"}
+{"caption": "application crashes when importing a podcast (OPML)", "clip_name": "APOD-CC5", "retrieval_key": "ret4"}
+{"caption": "proxy configuration crashes the app", "clip_name": "APOD-CC6", "retrieval_key": "ret5"}
+{"caption": "sleeping time option is crashing the app", "clip_name": "APOD-CC7", "retrieval_key": "ret6"}
+{"caption": "Error message overlaps the list of podcasts after going back from podcast searching (I searched \"mis\")", "clip_name": "APOD-CC8", "retrieval_key": "ret7"}
+{"caption": "Authentication for Gpodder.net crashes", "clip_name": "APOD-CC9", "retrieval_key": "ret8"}
+{"caption": "When attempting to add a podcast, when searching for the keyword 'mis' podcasts on iTunes I get the following error message: \"org.json.JSONException: No value for feedUrl\" and no responses are listed.", "clip_name": "APOD-RB", "retrieval_key": "ret9"}
+{"caption": "When trying to move a tasks time range to itself, instead of another task, in the \"Task Times\" screen, will cause the time range to disappear from the screen until the screen is refreshed.", "clip_name": "TIME-CC1", "retrieval_key": "ret10"}
+{"caption": "Deleting a task does not remove that task's time from the total timed tracked on the top until the screen is refreshed", "clip_name": "TIME-CC2", "retrieval_key": "ret11"}
+{"caption": "When attempting to edit the time of a created task, the app crashes", "clip_name": "TIME-CC3", "retrieval_key": "ret12"}
+{"caption": "Attempting to edit the time range of an existing task causes a crash", "clip_name": "TIME-CC4", "retrieval_key": "ret13"}
+{"caption": "When attempting to edit the amount of time of a task, the start date is not the current date and time", "clip_name": "TIME-CC5", "retrieval_key": "ret14"}
+{"caption": "When attempting to edit the name of a created task the app crashes", "clip_name": "TIME-CC6", "retrieval_key": "ret15"}
+{"caption": "When exporting to CSV the current list of tasks the app crashes", "clip_name": "TIME-CC7", "retrieval_key": "ret16"}
+{"caption": "When creating a new task the app crashes", "clip_name": "TIME-CC8", "retrieval_key": "ret17"}
+{"caption": "When attempting to open the Settings the app crashes", "clip_name": "TIME-CC9", "retrieval_key": "ret18"}
+{"caption": "When trying to restore a backup, the app crashes", "clip_name": "TIME-RC", "retrieval_key": "ret19"}
+{"caption": "All backups are created with date Jan 2, 1970", "clip_name": "GNU-CC1", "retrieval_key": "ret20"}
+{"caption": "The app crashes when enabling ownCloud on backup settings", "clip_name": "GNU-CC2", "retrieval_key": "ret21"}
+{"caption": "The app crashes when enabling passcode", "clip_name": "GNU-CC3", "retrieval_key": "ret22"}
+{"caption": "The app crashes when exporting to SD card", "clip_name": "GNU-CC4", "retrieval_key": "ret23"}
+{"caption": "Created backups are not shown when restoring", "clip_name": "GNU-CC5", "retrieval_key": "ret24"}
+{"caption": "The balance sheet report does not show the (sub)accounts and their balance", "clip_name": "GNU-CC6", "retrieval_key": "ret25"}
+{"caption": "The app crashes when enabling and entering a passcode", "clip_name": "GNU-CC7", "retrieval_key": "ret26"}
+{"caption": "The app crashes when trying to view the recurrent transaction I created", "clip_name": "GNU-CC8", "retrieval_key": "ret27"}
+{"caption": "The accounts and their balance in the balance sheet report get duplicated if I go back to it from Settings", "clip_name": "GNU-CC9", "retrieval_key": "ret28"}
+{"caption": "Crash when creating account names with an apostrophe", "clip_name": "GNU-RC", "retrieval_key": "ret29"}
+{"caption": "When I enter a weight, the date of the record is saved as 02/01/1970", "clip_name": "DROID-CC1", "retrieval_key": "ret30"}
+{"caption": "After creating a weight record, the \"Edit weight\" popup shows the recorded date as 02/01/1970, which is set as the current date if you press the go button", "clip_name": "DROID-CC2", "retrieval_key": "ret31"}
+{"caption": "The app crashes when trying to edit a weight record", "clip_name": "DROID-CC3", "retrieval_key": "ret32"}
+{"caption": "After creating a weight record, there is a crash if you go to Statistics", "clip_name": "DROID-CC4", "retrieval_key": "ret33"}
+{"caption": "The app crashes when calculating a BMI", "clip_name": "DROID-CC5", "retrieval_key": "ret34"}
+{"caption": "The app crashes when trying to add a previous comment to a weight record", "clip_name": "DROID-CC6", "retrieval_key": "ret35"}
+{"caption": "The app crashes when going to preferences", "clip_name": "DROID-CC7", "retrieval_key": "ret36"}
+{"caption": "The app crashes when enabling reminders", "clip_name": "DROID-CC8", "retrieval_key": "ret37"}
+{"caption": "The app crashes when a reminder executes", "clip_name": "DROID-CC9", "retrieval_key": "ret38"}
+{"caption": "The statistics labels and values are not shown", "clip_name": "DROID-CC11", "retrieval_key": "ret39"}
+{"caption": "Date gets set incorrectly when adding a plant to the app database", "clip_name": "GROW-CC1", "retrieval_key": "ret40"}
+{"caption": "The color of the menu text is incorrect (yellow)", "clip_name": "GROW-CC2", "retrieval_key": "ret41"}
+{"caption": "App crashes when trying to add a \"watering\" event to a plant", "clip_name": "GROW-CC3", "retrieval_key": "ret42"}
+{"caption": "App crashes when trying to view plant statistics", "clip_name": "GROW-CC4", "retrieval_key": "ret43"}
+{"caption": "App crashes when trying to add plant feeding additive", "clip_name": "GROW-CC5", "retrieval_key": "ret44"}
+{"caption": "App crashes when trying to add a new garden", "clip_name": "GROW-CC6", "retrieval_key": "ret45"}
+{"caption": "App crashes when attempting to add a new plant from the main screen of the app", "clip_name": "GROW-CC7", "retrieval_key": "ret46"}
+{"caption": "App crashes when attempting to add a comment to a photo", "clip_name": "GROW-CC8", "retrieval_key": "ret47"}
+{"caption": "Settings menu header does not appear ", "clip_name": "GROW-CC9", "retrieval_key": "ret48"}
+{"caption": "App crashes when trying to duplicate an existing plant entry", "clip_name": "GROW-RC", "retrieval_key": "ret49"}
+{"caption": "When trying to define a seed for a new token, if you go back from the screen where you define the token seed you are taken to the main screen", "clip_name": "TOK-RB", "retrieval_key": "ret50"}
+{"caption": "After generating a new PIN, closing and using PIN to log back in to app causes Options button (three verticle dots) to not appear", "clip_name": "TOK-CC1", "retrieval_key": "ret51"}
+{"caption": "Attempting to delete a token that was created causes the app the crash", "clip_name": "TOK-CC2", "retrieval_key": "ret52"}
+{"caption": "Generating a new token with a Base 32 Encoding fails with an error message", "clip_name": "TOK-CC3", "retrieval_key": "ret53"}
+{"caption": "Attempting to create a new Time Token leads to a crash", "clip_name": "TOK-CC4", "retrieval_key": "ret54"}
+{"caption": "Attempting to remove a newly created PIN causes a crash", "clip_name": "TOK-CC5", "retrieval_key": "ret55"}
+{"caption": "Attempting to click on a token to view its code results in a crash", "clip_name": "TOK-CC6", "retrieval_key": "ret56"}
+{"caption": "After generating a new token, it does not appear in the list of tokens", "clip_name": "TOK-CC7", "retrieval_key": "ret57"}
+{"caption": "After generating a new token and being returned to the main menu, the keyboard for entering numbers pops up even though the app does not ask for numbers", "clip_name": "TOK-CC8", "retrieval_key": "ret58"}
+{"caption": "Attempting to change the PIN causes the app to crash", "clip_name": "TOK-CC9", "retrieval_key": "ret59"}
