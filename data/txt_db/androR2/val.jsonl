@@ -1,0 +1,49 @@
+{"caption": "Filling cycleway quest answer by tapping apply previous answer button makes `oneway:bicycle=no` option disappear", "clip_name": "StreetComplete_issue_4744_video_1", "retrieval_key": "ret800"}
+{"caption": "Overlapping text on welcome screen", "clip_name": "StreetComplete_issue_3767_video_1", "retrieval_key": "ret801"}
+{"caption": "Make it easier to reach top items in \"Select\" windows (e.g. cycleway quest)", "clip_name": "StreetComplete_issue_2651_video_1", "retrieval_key": "ret802"}
+{"caption": "The small circles that replace pins when zoomed out are positioned too high", "clip_name": "StreetComplete_issue_2650_video_2", "retrieval_key": "ret803"}
+{"caption": "Adding a Note with picture breaks positions of buttons", "clip_name": "StreetComplete_issue_3405_video_1", "retrieval_key": "ret804"}
+{"caption": "Unable to select the Sidewalk overlay if there is a Note on it", "clip_name": "StreetComplete_issue_4529_video_1", "retrieval_key": "ret805"}
+{"caption": "Overlay dialog loses previous selection when closing", "clip_name": "StreetComplete_issue_4117_video_1", "retrieval_key": "ret806"}
+{"caption": "Cycleway overlay", "clip_name": "StreetComplete_issue_4657_video_1", "retrieval_key": "ret807"}
+{"caption": "Do not create bitmap with height 0 in PointerPinView", "clip_name": "StreetComplete_issue_2949_video_1", "retrieval_key": "ret808"}
+{"caption": "Clicking on this quest crashes", "clip_name": "StreetComplete_issue_3545_video_1", "retrieval_key": "ret809"}
+{"caption": "Quest presets", "clip_name": "StreetComplete_issue_3210_video_1", "retrieval_key": "ret810"}
+{"caption": "App crashes on fast zoom with one finger", "clip_name": "StreetComplete_issue_2601_video_1", "retrieval_key": "ret811"}
+{"caption": "Moving the map does not disengage GPS (if no signal is available at the moment)", "clip_name": "StreetComplete_issue_3432_video_1", "retrieval_key": "ret812"}
+{"caption": "Quest doesn't properly clear when completed, can be duplicated", "clip_name": "StreetComplete_issue_2447_video_1", "retrieval_key": "ret813"}
+{"caption": "Map turns black after resizing the window in multi-window mode", "clip_name": "StreetComplete_issue_2950_video_1", "retrieval_key": "ret814"}
+{"caption": "Sometimes when clicking on quest nothing happens", "clip_name": "StreetComplete_issue_3673_video_1", "retrieval_key": "ret815"}
+{"caption": "Changing the preset does not display its quests", "clip_name": "StreetComplete_issue_3430_video_1", "retrieval_key": "ret816"}
+{"caption": "Swiping often stays on the same email", "clip_name": "k-9_issue_6786_video_1", "retrieval_key": "ret817"}
+{"caption": "[simple feature request] Add Blue dark theme", "clip_name": "k-9_issue_6515_video_1", "retrieval_key": "ret818"}
+{"caption": "Swipe actions: Limit how far list items can be dragged", "clip_name": "k-9_issue_6462_video_1", "retrieval_key": "ret819"}
+{"caption": "Change message list divider to follow the views opacity", "clip_name": "k-9_issue_6338_video_1", "retrieval_key": "ret820"}
+{"caption": "Use CoordinatorLayout for better SnackBar behavior", "clip_name": "k-9_issue_6526_video_1", "retrieval_key": "ret821"}
+{"caption": "Deselect message during swipe", "clip_name": "k-9_issue_6470_video_1", "retrieval_key": "ret822"}
+{"caption": "Allow reordering accounts", "clip_name": "k-9_issue_5243_video_1", "retrieval_key": "ret823"}
+{"caption": "Message View Redesign: Add bottom sheet (1)", "clip_name": "k-9_issue_6570_video_1", "retrieval_key": "ret824"}
+{"caption": "Message View Redesign: Display tooltips when long-pressing the menu actions", "clip_name": "k-9_issue_6485_video_1", "retrieval_key": "ret825"}
+{"caption": "[Bug] Ugly switch from light theme to dark theme at the start of the app", "clip_name": "k-9_issue_6493_video_1", "retrieval_key": "ret826"}
+{"caption": "Swipe between messages", "clip_name": "k-9_issue_6207_video_1", "retrieval_key": "ret827"}
+{"caption": "Message View Redesign: Add bottom sheet (2)", "clip_name": "k-9_issue_6600_video_1", "retrieval_key": "ret828"}
+{"caption": "Make `AutocryptPreferEncryptDialogFragment` a proper preference dialog", "clip_name": "k-9_issue_6636_video_1", "retrieval_key": "ret829"}
+{"caption": "Slow startup and slow opening e-mail from notification", "clip_name": "k-9_issue_6620_video_1", "retrieval_key": "ret830"}
+{"caption": "Slow startup and slow opening e-mail from notification", "clip_name": "k-9_issue_6620_video_2", "retrieval_key": "ret831"}
+{"caption": "Message View Redesign: Display crypto status", "clip_name": "k-9_issue_6616_video_1", "retrieval_key": "ret832"}
+{"caption": "New swipe feature makes code blocks not horizontally scrollable", "clip_name": "k-9_issue_6297_video_1", "retrieval_key": "ret833"}
+{"caption": "Don't allow dragging the message details bottom sheet when the list is scrolled", "clip_name": "k-9_issue_6648_video_2", "retrieval_key": "ret834"}
+{"caption": "Swipe actions: Display action name next to the icon", "clip_name": "k-9_issue_6456_video_1", "retrieval_key": "ret835"}
+{"caption": "Ignore WebView's scroll state when swipe gesture started in other view", "clip_name": "k-9_issue_6524_video_1", "retrieval_key": "ret836"}
+{"caption": "Add support for swipe actions to the message list screen", "clip_name": "k-9_issue_6335_video_1", "retrieval_key": "ret837"}
+{"caption": "Make `AutocryptPreferEncryptDialogFragment` a proper preference dialog", "clip_name": "k-9_issue_6636_video_2", "retrieval_key": "ret838"}
+{"caption": "Issue with search in General settings after rotating the device", "clip_name": "k-9_issue_6182_video_1", "retrieval_key": "ret839"}
+{"caption": "\"Show next message after delete\" jumps to list accidentally", "clip_name": "k-9_issue_6342_video_1", "retrieval_key": "ret840"}
+{"caption": "Selection menu bugs under TalkBack", "clip_name": "k-9_issue_5850_video_1", "retrieval_key": "ret841"}
+{"caption": "Change message list divider to follow the views opacity", "clip_name": "k-9_issue_6338_video_2", "retrieval_key": "ret842"}
+{"caption": "Add floating action button for compose action", "clip_name": "k-9_issue_6543_video_1", "retrieval_key": "ret843"}
+{"caption": "Support archive/spam action in message lists with multiple accounts", "clip_name": "k-9_issue_5492_video_1", "retrieval_key": "ret844"}
+{"caption": "Don't allow dragging the message details bottom sheet when the list is scrolled", "clip_name": "k-9_issue_6648_video_1", "retrieval_key": "ret845"}
+{"caption": "Change the separator between message view pages", "clip_name": "k-9_issue_6296_video_1", "retrieval_key": "ret846"}
+{"caption": "issue with \"Add from Contact\" when permission not granted", "clip_name": "k-9_issue_5343_video_1", "retrieval_key": "ret847"}
+{"caption": "CC field hid when email address is invalid and we focused on the Subject field.", "clip_name": "k-9_issue_6184_video_1", "retrieval_key": "ret848"}

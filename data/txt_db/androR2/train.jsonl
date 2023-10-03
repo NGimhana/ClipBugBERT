@@ -1,0 +1,800 @@
+{"caption": "fixes #376 (data loss activity)", "clip_name": "transistor_issue_377_video_1", "retrieval_key": "ret0"}
+{"caption": "Data loss while using the app.", "clip_name": "transistor_issue_376_video_1", "retrieval_key": "ret1"}
+{"caption": "Solve data loss", "clip_name": "apps-android-wikipedia_issue_3084_video_2", "retrieval_key": "ret2"}
+{"caption": "Solve data loss", "clip_name": "apps-android-wikipedia_issue_3084_video_1", "retrieval_key": "ret3"}
+{"caption": "\"Show App Tour Again\" broken", "clip_name": "Omni-Notes_issue_867_video_1", "retrieval_key": "ret4"}
+{"caption": "Lost attachment after restore?", "clip_name": "Omni-Notes_issue_812_video_1", "retrieval_key": "ret5"}
+{"caption": "\"Add Attachment\" menu without scrolling in landscape mode", "clip_name": "Omni-Notes_issue_865_video_1", "retrieval_key": "ret6"}
+{"caption": "\"Show App Tour Again\" broken", "clip_name": "Omni-Notes_issue_867_video_2", "retrieval_key": "ret7"}
+{"caption": "Deleted items can still be searched outside the Trash", "clip_name": "Omni-Notes_issue_886_video_1", "retrieval_key": "ret8"}
+{"caption": "\"Add Attachment\" menu without scrolling in landscape mode", "clip_name": "Omni-Notes_issue_865_video_2", "retrieval_key": "ret9"}
+{"caption": "Issue 172 brapi import", "clip_name": "Field-Book_issue_216_video_1", "retrieval_key": "ret10"}
+{"caption": "halfback external gps", "clip_name": "Field-Book_issue_241_video_1", "retrieval_key": "ret11"}
+{"caption": "Intermittent problems with photo traits", "clip_name": "Field-Book_issue_554_video_1", "retrieval_key": "ret12"}
+{"caption": "Not able to import fields to the app [BUG]", "clip_name": "Field-Book_issue_540_video_1", "retrieval_key": "ret13"}
+{"caption": "Issue 87 field creator", "clip_name": "Field-Book_issue_218_video_1", "retrieval_key": "ret14"}
+{"caption": "[BUG] Multiple observations per variable", "clip_name": "Field-Book_issue_257_video_1", "retrieval_key": "ret15"}
+{"caption": "Added password length check while creating backups #770", "clip_name": "andOTP_issue_771_video_1", "retrieval_key": "ret16"}
+{"caption": "#635 move authentication to a background thread", "clip_name": "andOTP_issue_738_video_1", "retrieval_key": "ret17"}
+{"caption": "Show images in group selection", "clip_name": "Random-Name-Picker_issue_186_video_1", "retrieval_key": "ret18"}
+{"caption": "Fix speech to text doesn't automatically open after accepting permission", "clip_name": "Random-Name-Picker_issue_170_video_1", "retrieval_key": "ret19"}
+{"caption": "Add option to remove image from name", "clip_name": "Random-Name-Picker_issue_183_video_1", "retrieval_key": "ret20"}
+{"caption": "Long-pressing on title starts playback", "clip_name": "VinylMusicPlayer_issue_180_video_1", "retrieval_key": "ret21"}
+{"caption": "Make it possible to type a time in the sleep timer", "clip_name": "VinylMusicPlayer_issue_384_video_1", "retrieval_key": "ret22"}
+{"caption": "Crash when grabbing the scrollbar from the top in a playlist's view", "clip_name": "VinylMusicPlayer_issue_565_video_1", "retrieval_key": "ret23"}
+{"caption": "Unable to remove player notification by swiping", "clip_name": "VinylMusicPlayer_issue_734_video_1", "retrieval_key": "ret24"}
+{"caption": "Crash on startup", "clip_name": "VinylMusicPlayer_issue_589_video_1", "retrieval_key": "ret25"}
+{"caption": "Typing [/ exposes a list of some notes, when clicked they paste the note and some code", "clip_name": "simplenote-android_issue_1334_video_1", "retrieval_key": "ret26"}
+{"caption": "Fix editor's background color in landscape mode with dark theme", "clip_name": "simplenote-android_issue_1457_video_2", "retrieval_key": "ret27"}
+{"caption": "Tag does not show correct note count when added externally", "clip_name": "simplenote-android_issue_1493_video_1", "retrieval_key": "ret28"}
+{"caption": "[Search] Scroll position of a note with matching keyword in not persistent", "clip_name": "simplenote-android_issue_1338_video_1", "retrieval_key": "ret29"}
+{"caption": "No spelling correction", "clip_name": "simplenote-android_issue_1411_video_1", "retrieval_key": "ret30"}
+{"caption": "Checkboxes disappearing in notes for Samsung Galaxy users on upgrade to OneUI 5/ Android 13", "clip_name": "simplenote-android_issue_1582_video_1", "retrieval_key": "ret31"}
+{"caption": "`SAVE` button gets disabled for a new tag after device rotation", "clip_name": "simplenote-android_issue_1483_video_1", "retrieval_key": "ret32"}
+{"caption": "Do not force white background in tag editor in landscape mode", "clip_name": "simplenote-android_issue_1482_video_1", "retrieval_key": "ret33"}
+{"caption": "Checklist: when an item is toggled, the app scrolls to where the cursor is", "clip_name": "simplenote-android_issue_1315_video_1", "retrieval_key": "ret34"}
+{"caption": "Tag rename dialog is closed on rotation", "clip_name": "simplenote-android_issue_1484_video_1", "retrieval_key": "ret35"}
+{"caption": "History should be restored only after `RESTORE` tap", "clip_name": "simplenote-android_issue_1347_video_1", "retrieval_key": "ret36"}
+{"caption": "App Switches to Light Mode When Editing in Landscape Orientation", "clip_name": "simplenote-android_issue_1410_video_1", "retrieval_key": "ret37"}
+{"caption": "New user will see notes of the previous user.", "clip_name": "simplenote-android_issue_1296_video_1", "retrieval_key": "ret38"}
+{"caption": "Move scroll setup from view tree updates after the note content refreshes", "clip_name": "simplenote-android_issue_1454_video_1", "retrieval_key": "ret39"}
+{"caption": "Handle back press button when NoteEditorActivity is the Task Root", "clip_name": "simplenote-android_issue_1450_video_2", "retrieval_key": "ret40"}
+{"caption": "Sign Up Flow Update", "clip_name": "simplenote-android_issue_1340_video_1", "retrieval_key": "ret41"}
+{"caption": "Sign Up Flow Update", "clip_name": "simplenote-android_issue_1340_video_2", "retrieval_key": "ret42"}
+{"caption": "Fix editor's background color in landscape mode with dark theme", "clip_name": "simplenote-android_issue_1457_video_1", "retrieval_key": "ret43"}
+{"caption": "Widget Text doesn't update when navigating between Widget and Simplenote.", "clip_name": "simplenote-android_issue_1322_video_1", "retrieval_key": "ret44"}
+{"caption": "Lists bulleted with `\u2022` are not rendered in preview correctly", "clip_name": "simplenote-android_issue_1463_video_1", "retrieval_key": "ret45"}
+{"caption": "Link without https is detected but not opening in browser when the action icon is clicked", "clip_name": "simplenote-android_issue_1289_video_1", "retrieval_key": "ret46"}
+{"caption": "Checklists are pasted / restored without checkboxes", "clip_name": "simplenote-android_issue_1440_video_1", "retrieval_key": "ret47"}
+{"caption": "Passcode can be bypassed via FAB in note list widget", "clip_name": "simplenote-android_issue_1442_video_1", "retrieval_key": "ret48"}
+{"caption": "Handle back press button when NoteEditorActivity is the Task Root", "clip_name": "simplenote-android_issue_1450_video_1", "retrieval_key": "ret49"}
+{"caption": "Bug report - [Nmap Errors]", "clip_name": "UserLAnd_issue_1664_video_1", "retrieval_key": "ret50"}
+{"caption": "Explore: Photos don't always load unless you leave obs and come back to it", "clip_name": "iNaturalistAndroid_issue_1158_video_1", "retrieval_key": "ret51"}
+{"caption": "Make the behavior of highlighting and revealing entries consistent", "clip_name": "Aegis_issue_255_video_1", "retrieval_key": "ret52"}
+{"caption": "Delete a entry by searching can cause vaults list empty", "clip_name": "Aegis_issue_1123_video_1", "retrieval_key": "ret53"}
+{"caption": "No entries info not shown and entries missing", "clip_name": "Aegis_issue_750_video_1", "retrieval_key": "ret54"}
+{"caption": "UI Refresh", "clip_name": "penn-mobile-android_issue_530_video_1", "retrieval_key": "ret55"}
+{"caption": "Waypoint icons don't get redrawn ", "clip_name": "cgeo_issue_11030_video_1", "retrieval_key": "ret56"}
+{"caption": "rel. to #14158 - preserve scroll position", "clip_name": "cgeo_issue_14160_video_1", "retrieval_key": "ret57"}
+{"caption": "Scrolling triggers swipe to other tab", "clip_name": "cgeo_issue_11497_video_1", "retrieval_key": "ret58"}
+{"caption": "[new image gallery] flickering under specific circumstances ", "clip_name": "cgeo_issue_13586_video_1", "retrieval_key": "ret59"}
+{"caption": "List spinner jumping to top on \"mouse over\"", "clip_name": "cgeo_issue_12645_video_1", "retrieval_key": "ret60"}
+{"caption": "visualize download process (rel. to #330, fix #13046)", "clip_name": "cgeo_issue_13084_video_2", "retrieval_key": "ret61"}
+{"caption": "Loading filters is wonky", "clip_name": "cgeo_issue_12073_video_1", "retrieval_key": "ret62"}
+{"caption": "Disappearing waypoints on OSM map", "clip_name": "cgeo_issue_14053_video_1", "retrieval_key": "ret63"}
+{"caption": "[Image gallery] strange animations under specific circumstances ", "clip_name": "cgeo_issue_13008_video_1", "retrieval_key": "ret64"}
+{"caption": "[unified map] Rendering performance needs improvement", "clip_name": "cgeo_issue_13718_video_1", "retrieval_key": "ret65"}
+{"caption": "visualize download process (rel. to #330, fix #13046)", "clip_name": "cgeo_issue_13084_video_1", "retrieval_key": "ret66"}
+{"caption": "Splash screen flashing in background", "clip_name": "cgeo_issue_9563_video_1", "retrieval_key": "ret67"}
+{"caption": "Image gallery not working for trackables", "clip_name": "cgeo_issue_13030_video_1", "retrieval_key": "ret68"}
+{"caption": "No stored list shown when tapping on a saved cache", "clip_name": "cgeo_issue_12105_video_1", "retrieval_key": "ret69"}
+{"caption": "NPE from Google Pre-Launch Report", "clip_name": "cgeo_issue_13011_video_1", "retrieval_key": "ret70"}
+{"caption": "Granting storage permission for wallpaper not working", "clip_name": "cgeo_issue_13826_video_1", "retrieval_key": "ret71"}
+{"caption": "splash image zoom false", "clip_name": "cgeo_issue_13708_video_1", "retrieval_key": "ret72"}
+{"caption": "[Image gallery] strange animations under specific circumstances ", "clip_name": "cgeo_issue_13008_video_2", "retrieval_key": "ret73"}
+{"caption": "Cache waypoint coordinates are not consistent between activities, and are not saving properly", "clip_name": "cgeo_issue_12913_video_1", "retrieval_key": "ret74"}
+{"caption": "Crash when trying to change waypoint name", "clip_name": "cgeo_issue_12556_video_1", "retrieval_key": "ret75"}
+{"caption": "Caches only visible in compact mode", "clip_name": "cgeo_issue_9778_video_1", "retrieval_key": "ret76"}
+{"caption": "When in the device settings there is a RTL language set, the RTL alignment is applied in some parts of Collect although in Collect there is LTR language set", "clip_name": "collect_issue_5561_video_1", "retrieval_key": "ret77"}
+{"caption": "The app is crashing after entering the hierarchy view", "clip_name": "collect_issue_5513_video_1", "retrieval_key": "ret78"}
+{"caption": "Selecting approximate option for location doesn't work as expected", "clip_name": "collect_issue_5299_video_1", "retrieval_key": "ret79"}
+{"caption": "Removing one of the groups in nested repeats forms and clicking the back button causes the crash of the app", "clip_name": "collect_issue_5264_video_1", "retrieval_key": "ret80"}
+{"caption": "Error dialog after minimizing the app during selfie recording video", "clip_name": "collect_issue_5381_video_1", "retrieval_key": "ret81"}
+{"caption": "Facing issue with the upgrade version of ODK Collect app (v2021.2.2).", "clip_name": "collect_issue_4783_video_2", "retrieval_key": "ret82"}
+{"caption": "Crash when zooming to fill screen in select from map", "clip_name": "collect_issue_5379_video_1", "retrieval_key": "ret83"}
+{"caption": "Placement by tapping doesn't work for OSM for GeoTrace and GeoShape widgets", "clip_name": "collect_issue_5168_video_1", "retrieval_key": "ret84"}
+{"caption": "Ignoring or saving changes in a form entered by a created shortcut opens a new form if \u201eDon\u2019t keep activities\u201d is on", "clip_name": "collect_issue_5246_video_1", "retrieval_key": "ret85"}
+{"caption": "Deleting added points is Geoshape/ Geotrace used with OSM doesn\u2019t remove lines connecting points", "clip_name": "collect_issue_5224_video_1", "retrieval_key": "ret86"}
+{"caption": "Saving point for the second time in Geopoint widget with maps/ placement-map changes altitude and accuracy to zero when used with Mapbox", "clip_name": "collect_issue_5217_video_1", "retrieval_key": "ret87"}
+{"caption": "in Geoshape/trace OSM adds points when tapping \"-\u201d and \"+\u201d buttons", "clip_name": "collect_issue_5522_video_1", "retrieval_key": "ret88"}
+{"caption": "In Google Maps/OSM after saving a few points with manual location recording in GeoShape widget and returning to View, the number of points is reduced.", "clip_name": "collect_issue_5186_video_1", "retrieval_key": "ret89"}
+{"caption": "Placement by tapping in Geotrace and Geoshape widget used with Google maps doesn\u2019t add points correctly between two exsting points", "clip_name": "collect_issue_5226_video_1", "retrieval_key": "ret90"}
+{"caption": "User is unable to take pictures when allowing camera access after choosing deny and don\u2019t ask again on Redmi 9T-Android 10", "clip_name": "collect_issue_5289_video_1", "retrieval_key": "ret91"}
+{"caption": "Backwards navigation and hierarchy view have different (and worse) rules about what they show compared to forward navigation", "clip_name": "collect_issue_4569_video_1", "retrieval_key": "ret92"}
+{"caption": "Selects with packed columns change their alignment after going back to the question when RTL is applied", "clip_name": "collect_issue_5559_video_1", "retrieval_key": "ret93"}
+{"caption": "Opposite themes in Collect and device when drawing in landscape view and ignoring changes cause wrong colours of dialogues and other parts of Collect", "clip_name": "collect_issue_5233_video_1", "retrieval_key": "ret94"}
+{"caption": "Error notification is showing after every rotation of the screen", "clip_name": "collect_issue_5327_video_1", "retrieval_key": "ret95"}
+{"caption": "When an offline layer is applied in Google Maps the shapes are not visible", "clip_name": "collect_issue_5488_video_1", "retrieval_key": "ret96"}
+{"caption": "Placement by tapping in Geotrace and Geoshape widget used with Google maps doesn\u2019t add points correctly between two exsting points", "clip_name": "collect_issue_5226_video_2", "retrieval_key": "ret97"}
+{"caption": "User is moved to the Selected Point location from their location after rotating the screen", "clip_name": "collect_issue_5211_video_1", "retrieval_key": "ret98"}
+{"caption": "Facing issue with the upgrade version of ODK Collect app (v2021.2.2).", "clip_name": "collect_issue_4783_video_1", "retrieval_key": "ret99"}
+{"caption": "The back button is not working on the homepage", "clip_name": "openfoodfacts-androidapp_issue_4320_video_1", "retrieval_key": "ret100"}
+{"caption": "Refreshing the History in Open Products Facts causes layout issue", "clip_name": "openfoodfacts-androidapp_issue_4219_video_1", "retrieval_key": "ret101"}
+{"caption": "The photo manager does not open from an expanded scan card", "clip_name": "openfoodfacts-androidapp_issue_4439_video_1", "retrieval_key": "ret102"}
+{"caption": "Coordinates are lost on rotation in Edit Mode photo edit", "clip_name": "openfoodfacts-androidapp_issue_4578_video_1", "retrieval_key": "ret103"}
+{"caption": "fix: Working of the hunger games promo header", "clip_name": "openfoodfacts-androidapp_issue_4922_video_2", "retrieval_key": "ret104"}
+{"caption": "Empty search screen", "clip_name": "openfoodfacts-androidapp_issue_4552_video_1", "retrieval_key": "ret105"}
+{"caption": "fix: Product search recycler view data", "clip_name": "openfoodfacts-androidapp_issue_4918_video_2", "retrieval_key": "ret106"}
+{"caption": "Fixed crash in edit mode in obf", "clip_name": "openfoodfacts-androidapp_issue_3744_video_1", "retrieval_key": "ret107"}
+{"caption": "Image selection from the image manager does not work anymore", "clip_name": "openfoodfacts-androidapp_issue_3839_video_1", "retrieval_key": "ret108"}
+{"caption": "The initial start is messy", "clip_name": "openfoodfacts-androidapp_issue_3906_video_1", "retrieval_key": "ret109"}
+{"caption": "Fixed deep link issue when opening product from web", "clip_name": "openfoodfacts-androidapp_issue_3731_video_1", "retrieval_key": "ret110"}
+{"caption": "feat: Scan tile (quick settings)", "clip_name": "openfoodfacts-androidapp_issue_4603_video_1", "retrieval_key": "ret111"}
+{"caption": "Coroutine error message on photo refresh", "clip_name": "openfoodfacts-androidapp_issue_4495_video_1", "retrieval_key": "ret112"}
+{"caption": "fix: Product search recycler view data", "clip_name": "openfoodfacts-androidapp_issue_4918_video_1", "retrieval_key": "ret113"}
+{"caption": "The \"product photos\" optional tab does not work anymore", "clip_name": "openfoodfacts-androidapp_issue_4440_video_1", "retrieval_key": "ret114"}
+{"caption": "Folding and unfolding and scrolling makes attributes detail disappear, just like magic !", "clip_name": "openfoodfacts-androidapp_issue_4555_video_1", "retrieval_key": "ret115"}
+{"caption": "The \"No Nutrition facts\" toggle does not work correctly", "clip_name": "openfoodfacts-androidapp_issue_4582_video_1", "retrieval_key": "ret116"}
+{"caption": "Robotoff questions disappear if you slide tabs until the Analysis tab", "clip_name": "openfoodfacts-androidapp_issue_4032_video_1", "retrieval_key": "ret117"}
+{"caption": "Clicking on the ingredient analysis crashes the view", "clip_name": "openfoodfacts-androidapp_issue_4224_video_1", "retrieval_key": "ret118"}
+{"caption": "Incorrect number of products in a list", "clip_name": "openfoodfacts-androidapp_issue_4647_video_1", "retrieval_key": "ret119"}
+{"caption": "fix: Working of the hunger games promo header", "clip_name": "openfoodfacts-androidapp_issue_4922_video_1", "retrieval_key": "ret120"}
+{"caption": "Compare mode crashes after 1st scan", "clip_name": "openfoodfacts-androidapp_issue_4151_video_1", "retrieval_key": "ret121"}
+{"caption": "The animation for Cropping existing photos from the image manager does not work anymore", "clip_name": "openfoodfacts-androidapp_issue_3778_video_1", "retrieval_key": "ret122"}
+{"caption": "feat: Implement Android 12 new splashscreen API", "clip_name": "openfoodfacts-androidapp_issue_4548_video_1", "retrieval_key": "ret123"}
+{"caption": "The history doesn't load", "clip_name": "openfoodfacts-androidapp_issue_4036_video_1", "retrieval_key": "ret124"}
+{"caption": "URI issue when trying to replace the ingredients photo", "clip_name": "openfoodfacts-androidapp_issue_4088_video_1", "retrieval_key": "ret125"}
+{"caption": "ISE (Crash on click on packager code)", "clip_name": "openfoodfacts-androidapp_issue_4087_video_1", "retrieval_key": "ret126"}
+{"caption": "Broken sections in settings", "clip_name": "openfoodfacts-androidapp_issue_4260_video_1", "retrieval_key": "ret127"}
+{"caption": "Photo selection from scan causes weird layout bug", "clip_name": "openfoodfacts-androidapp_issue_4044_video_1", "retrieval_key": "ret128"}
+{"caption": "List export fixed", "clip_name": "openfoodfacts-androidapp_issue_3794_video_1", "retrieval_key": "ret129"}
+{"caption": "The ingredients image is not shown while it in facts exists", "clip_name": "openfoodfacts-androidapp_issue_4598_video_1", "retrieval_key": "ret130"}
+{"caption": "The rotating slogan is not visible in dark mode", "clip_name": "openfoodfacts-androidapp_issue_4119_video_1", "retrieval_key": "ret131"}
+{"caption": "The rotating slogan is not visible in dark mode", "clip_name": "openfoodfacts-androidapp_issue_4119_video_2", "retrieval_key": "ret132"}
+{"caption": "Got a NullPointerException and crashed", "clip_name": "materialistic_issue_1468_video_1", "retrieval_key": "ret133"}
+{"caption": "[PiP] Fingerprint auth prompt overlays video in PiP mode", "clip_name": "focus-android_issue_6895_video_1", "retrieval_key": "ret134"}
+{"caption": "[A11y] With talkback enabled, Focus doesn't apply the newly set search engine", "clip_name": "focus-android_issue_7967_video_1", "retrieval_key": "ret135"}
+{"caption": "Update tracking protection cfr visibility conditions", "clip_name": "focus-android_issue_7086_video_1", "retrieval_key": "ret136"}
+{"caption": "Web content that is sticky to the bottom is hidden until refresh", "clip_name": "focus-android_issue_5884_video_3", "retrieval_key": "ret137"}
+{"caption": "Carousel tips fail to be translated after changing the language without restarting the application", "clip_name": "focus-android_issue_5331_video_1", "retrieval_key": "ret138"}
+{"caption": "Update Https only learn more link", "clip_name": "focus-android_issue_6289_video_1", "retrieval_key": "ret139"}
+{"caption": "Web content with nested scrolling in Focus hides the toolbar permanently", "clip_name": "focus-android_issue_5173_video_2", "retrieval_key": "ret140"}
+{"caption": "[A11y] Talkback reads content from other onboarding pages when swiping on the current page", "clip_name": "focus-android_issue_5631_video_1", "retrieval_key": "ret141"}
+{"caption": "The \"Remove\" option from a shortcut is overlapping the shortcut when the keyboard is triggered", "clip_name": "focus-android_issue_5514_video_1", "retrieval_key": "ret142"}
+{"caption": "The awesome bar displays a visual defect", "clip_name": "focus-android_issue_6165_video_2", "retrieval_key": "ret143"}
+{"caption": "Focus icon & hint text unexpectedly bounce when keyboard is raised/lowered on homescreen", "clip_name": "focus-android_issue_5291_video_1", "retrieval_key": "ret144"}
+{"caption": "For #5369 show the broken lock icon when visiting a HTTP site", "clip_name": "focus-android_issue_5402_video_1", "retrieval_key": "ret145"}
+{"caption": "Bottom menu bar remains displayed when scrolling down on different top sites", "clip_name": "focus-android_issue_5456_video_2", "retrieval_key": "ret146"}
+{"caption": "The search field includes the three-dot menu after selecting the URL", "clip_name": "focus-android_issue_5582_video_2", "retrieval_key": "ret147"}
+{"caption": "Implement CFR for erase tabs", "clip_name": "focus-android_issue_6352_video_1", "retrieval_key": "ret148"}
+{"caption": "Canceling the \"Open in app?\" displayes an empty page", "clip_name": "focus-android_issue_7777_video_1", "retrieval_key": "ret149"}
+{"caption": "The Play/Pause button does not remain displayed on the media notification", "clip_name": "focus-android_issue_6758_video_1", "retrieval_key": "ret150"}
+{"caption": "Blank widgets on Google Pixel", "clip_name": "focus-android_issue_7570_video_1", "retrieval_key": "ret151"}
+{"caption": "Don't clear search url before erase", "clip_name": "focus-android_issue_7513_video_1", "retrieval_key": "ret152"}
+{"caption": "The fingerprint verification window prevents the 3-dot menu to stay open on restore", "clip_name": "focus-android_issue_6023_video_1", "retrieval_key": "ret153"}
+{"caption": "New CFR popup composable", "clip_name": "focus-android_issue_6411_video_5", "retrieval_key": "ret154"}
+{"caption": "Add transition animation for theme switching", "clip_name": "focus-android_issue_7572_video_1", "retrieval_key": "ret155"}
+{"caption": "[bug] Rotating the device from portrait to landscape, or viceversa opens new tabs", "clip_name": "focus-android_issue_5361_video_1", "retrieval_key": "ret156"}
+{"caption": "Changing the language from Focus, opens the added shortcut", "clip_name": "focus-android_issue_6831_video_1", "retrieval_key": "ret157"}
+{"caption": "[L10N] Firefox Focus crashes when reaching the last carousel tip on Russian", "clip_name": "focus-android_issue_5813_video_1", "retrieval_key": "ret158"}
+{"caption": "For #5597 - Support RTL in Settings -> Choose search engine", "clip_name": "focus-android_issue_6467_video_1", "retrieval_key": "ret159"}
+{"caption": "Web content with nested scrolling in Focus hides the toolbar permanently", "clip_name": "focus-android_issue_5173_video_1", "retrieval_key": "ret160"}
+{"caption": "The CFRs are dismissed if the users taps anywhere on the screen", "clip_name": "focus-android_issue_7653_video_1", "retrieval_key": "ret161"}
+{"caption": "Lateral tapping outside the menu does not return to web page", "clip_name": "focus-android_issue_5720_video_1", "retrieval_key": "ret162"}
+{"caption": "Add tabId for download feature", "clip_name": "focus-android_issue_7611_video_1", "retrieval_key": "ret163"}
+{"caption": "9gag.com's banner to \"Open in...\" is not displayed entirely; the page is unusable", "clip_name": "focus-android_issue_5380_video_1", "retrieval_key": "ret164"}
+{"caption": "Integrate Picture-in-Picture feature", "clip_name": "focus-android_issue_6450_video_1", "retrieval_key": "ret165"}
+{"caption": "The Play/Pause button does not remain displayed on the media notification", "clip_name": "focus-android_issue_7289_video_1", "retrieval_key": "ret166"}
+{"caption": "The onboarding is displayed instead of the shared page", "clip_name": "focus-android_issue_7112_video_1", "retrieval_key": "ret167"}
+{"caption": "The selected search engine cannot be removed", "clip_name": "focus-android_issue_5673_video_1", "retrieval_key": "ret168"}
+{"caption": "Regression: Focus does not return to the \"Add search engine\" entry page", "clip_name": "focus-android_issue_5316_video_1", "retrieval_key": "ret169"}
+{"caption": "Trashcan icon overlaps cookies preferences prompts on TikTok/Soundcloud websites", "clip_name": "focus-android_issue_5704_video_2", "retrieval_key": "ret170"}
+{"caption": "[crash] Focus crashes when accessing Settings", "clip_name": "focus-android_issue_4801_video_1", "retrieval_key": "ret171"}
+{"caption": "Focus Nightly crashes on fresh install", "clip_name": "focus-android_issue_6973_video_1", "retrieval_key": "ret172"}
+{"caption": "Microphone icon is incorrectly placed on the 2x1 size widget ", "clip_name": "focus-android_issue_7547_video_1", "retrieval_key": "ret173"}
+{"caption": "Reload the session with the new autoplay rules", "clip_name": "focus-android_issue_6191_video_1", "retrieval_key": "ret174"}
+{"caption": "For #6230 - Restore the searches measurement in core ping", "clip_name": "focus-android_issue_6236_video_1", "retrieval_key": "ret175"}
+{"caption": "Carousel tips are improperly displayed in landscape mode when the keyboard is invoked/dismissed", "clip_name": "focus-android_issue_5366_video_1", "retrieval_key": "ret176"}
+{"caption": "Add custom url without altering the text", "clip_name": "focus-android_issue_7548_video_1", "retrieval_key": "ret177"}
+{"caption": "The application crashes when changing the orientation from a custom tab", "clip_name": "focus-android_issue_6440_video_1", "retrieval_key": "ret178"}
+{"caption": "HTTPS only mode is working only when a pref in about:config is changed", "clip_name": "focus-android_issue_7384_video_2", "retrieval_key": "ret179"}
+{"caption": "PWAs are not added to home screen on Android 5 tablet", "clip_name": "focus-android_issue_6753_video_1", "retrieval_key": "ret180"}
+{"caption": "\"Open link in private tab\" option from a custom tab does not switch to Focus", "clip_name": "focus-android_issue_5670_video_1", "retrieval_key": "ret181"}
+{"caption": "The tracking protection of a page cannot be enabled back until deleted from Exceptions", "clip_name": "focus-android_issue_5012_video_1", "retrieval_key": "ret182"}
+{"caption": " Trashcan icon overlaps warning prompt on tiktok.com", "clip_name": "focus-android_issue_5707_video_1", "retrieval_key": "ret183"}
+{"caption": "Revert DDG exception added for search terms", "clip_name": "focus-android_issue_7263_video_1", "retrieval_key": "ret184"}
+{"caption": "The search bar is not active, and the keyboard is not triggered when leaving the search field empty and tap \"Go\"", "clip_name": "focus-android_issue_5013_video_1", "retrieval_key": "ret185"}
+{"caption": "Web content that is sticky to the bottom is hidden until refresh", "clip_name": "focus-android_issue_5884_video_2", "retrieval_key": "ret186"}
+{"caption": "The trashcan CFR isn't displayed at all after rotating the device while the TP CFR is displayed", "clip_name": "focus-android_issue_7652_video_1", "retrieval_key": "ret187"}
+{"caption": "[bug] Disabling the trackers from ETP section doesn't work", "clip_name": "focus-android_issue_5236_video_1", "retrieval_key": "ret188"}
+{"caption": "Cookie Banner handling Focus", "clip_name": "focus-android_issue_7965_video_1", "retrieval_key": "ret189"}
+{"caption": "Don't animate the toolbar if a11y services are enabled", "clip_name": "focus-android_issue_5509_video_1", "retrieval_key": "ret190"}
+{"caption": "Unresponsive screen after taping on the search bar while in Landscape mode on Google.com/ Youtube.com.", "clip_name": "focus-android_issue_5454_video_1", "retrieval_key": "ret191"}
+{"caption": "[crash] Rotating the device when both CFR's are displayed, crashes Focus", "clip_name": "focus-android_issue_6525_video_1", "retrieval_key": "ret192"}
+{"caption": "The Play/Pause button does not remain displayed on the media notification", "clip_name": "focus-android_issue_6758_video_2", "retrieval_key": "ret193"}
+{"caption": "The bottom section of the context menu should be static in Landscape mode", "clip_name": "focus-android_issue_6593_video_1", "retrieval_key": "ret194"}
+{"caption": "Bottom bar should remain displayed at all times when scrolling on different websites", "clip_name": "focus-android_issue_5705_video_1", "retrieval_key": "ret195"}
+{"caption": "Different size widgets are not perfectly aligned to the left/right sides of the screen", "clip_name": "focus-android_issue_7528_video_1", "retrieval_key": "ret196"}
+{"caption": "Focus crashes when accessing the \"Add a search engine\" SUMO page", "clip_name": "focus-android_issue_6331_video_1", "retrieval_key": "ret197"}
+{"caption": "The CFR for Shield Icon is incorrectly placed", "clip_name": "focus-android_issue_6332_video_2", "retrieval_key": "ret198"}
+{"caption": "The focus jumps on \"Add search engine\" page when switching from portrait to landscape", "clip_name": "focus-android_issue_4831_video_1", "retrieval_key": "ret199"}
+{"caption": "Private session is closed after denying permissions ", "clip_name": "focus-android_issue_7536_video_1", "retrieval_key": "ret200"}
+{"caption": "Tapping on \"Languages\" displays a glitching Language page", "clip_name": "focus-android_issue_6170_video_1", "retrieval_key": "ret201"}
+{"caption": "Add secret screen", "clip_name": "focus-android_issue_6295_video_1", "retrieval_key": "ret202"}
+{"caption": "Visual defect observed when opening the Tabs Manager ", "clip_name": "focus-android_issue_5779_video_1", "retrieval_key": "ret203"}
+{"caption": "Close PiP when the video is not in fullscreen anymore", "clip_name": "focus-android_issue_6822_video_1", "retrieval_key": "ret204"}
+{"caption": "The CFR for Shield Icon is incorrectly placed", "clip_name": "focus-android_issue_6332_video_3", "retrieval_key": "ret205"}
+{"caption": "New CFR popup composable", "clip_name": "focus-android_issue_6411_video_4", "retrieval_key": "ret206"}
+{"caption": "New CFR popup composable", "clip_name": "focus-android_issue_6411_video_1", "retrieval_key": "ret207"}
+{"caption": "The URL displayed at the top of the context menu should be static in Portrait mode", "clip_name": "focus-android_issue_6736_video_2", "retrieval_key": "ret208"}
+{"caption": "For #6526 - Dismiss CFR when anchor disappears", "clip_name": "focus-android_issue_6530_video_1", "retrieval_key": "ret209"}
+{"caption": "Update splash screen beta logo", "clip_name": "focus-android_issue_7094_video_1", "retrieval_key": "ret210"}
+{"caption": "Exit PiP when launched externally with Intents", "clip_name": "focus-android_issue_6768_video_1", "retrieval_key": "ret211"}
+{"caption": "New CFR popup composable", "clip_name": "focus-android_issue_6411_video_2", "retrieval_key": "ret212"}
+{"caption": "Video from vimeo.com pauses after exiting fullscreen mode", "clip_name": "focus-android_issue_5680_video_1", "retrieval_key": "ret213"}
+{"caption": "Update to the new implementation of Activity.onCreateView", "clip_name": "focus-android_issue_7058_video_1", "retrieval_key": "ret214"}
+{"caption": "Focus opens a new tab when the theme is changed", "clip_name": "focus-android_issue_7689_video_1", "retrieval_key": "ret215"}
+{"caption": "Enable HTTPS-only mode in Beta and Production release", "clip_name": "focus-android_issue_6405_video_1", "retrieval_key": "ret216"}
+{"caption": "Some CFRs are not enabled by experiments without a restart", "clip_name": "focus-android_issue_7324_video_1", "retrieval_key": "ret217"}
+{"caption": "Update the trash can CFR", "clip_name": "focus-android_issue_7543_video_1", "retrieval_key": "ret218"}
+{"caption": "Cannot follow a link by pressing it if its target is not _self", "clip_name": "focus-android_issue_5101_video_1", "retrieval_key": "ret219"}
+{"caption": "Bottom menu bar overlaps the options on the Comment page on youtube.com", "clip_name": "focus-android_issue_5457_video_1", "retrieval_key": "ret220"}
+{"caption": "[crash] Changing the cookies option crashes the Focus Nightly app", "clip_name": "focus-android_issue_6094_video_1", "retrieval_key": "ret221"}
+{"caption": "The trashcan icon is minimized but the empty bullet remains displayed when scrolling", "clip_name": "focus-android_issue_5467_video_1", "retrieval_key": "ret222"}
+{"caption": "The Exceptions button does not grey out after clearing all exceptions", "clip_name": "focus-android_issue_5738_video_1", "retrieval_key": "ret223"}
+{"caption": "For #6561: The new onboarding has discrepancies on dark mode", "clip_name": "focus-android_issue_6584_video_1", "retrieval_key": "ret224"}
+{"caption": "The trashcan icon is minimized but the empty bullet remains displayed when scrolling", "clip_name": "focus-android_issue_5467_video_2", "retrieval_key": "ret225"}
+{"caption": "The Find in Page search field appears behind the keyboard", "clip_name": "focus-android_issue_5247_video_1", "retrieval_key": "ret226"}
+{"caption": " The tracking protection data panel is cutoff in landscape mode and cannot be scrolled ", "clip_name": "focus-android_issue_5333_video_1", "retrieval_key": "ret227"}
+{"caption": "The search field includes the three-dot menu after selecting the URL", "clip_name": "focus-android_issue_5582_video_1", "retrieval_key": "ret228"}
+{"caption": "The placeholder text from search bar is zoomed in when the keyboard in invoked", "clip_name": "focus-android_issue_7439_video_1", "retrieval_key": "ret229"}
+{"caption": "Switching between tabs is not smooth and jittery", "clip_name": "focus-android_issue_5444_video_1", "retrieval_key": "ret230"}
+{"caption": "Firefox Focus crashes on `i` info icon opening", "clip_name": "focus-android_issue_5022_video_1", "retrieval_key": "ret231"}
+{"caption": "Exiting a youtube video fullscreen is not possible because of invisible overlapping tab switcher", "clip_name": "focus-android_issue_5487_video_1", "retrieval_key": "ret232"}
+{"caption": "Regression: Multiple search engines with the same name/string to use can be added", "clip_name": "focus-android_issue_5317_video_2", "retrieval_key": "ret233"}
+{"caption": "[Bug] After pressing on \"Accept the Risk and Continue\" in the notification \"Secure Connection Failed\", Firefox Focus marks untrusted by any reason HTTPS site connection as secure (Bugzilla 1714582)", "clip_name": "focus-android_issue_4921_video_1", "retrieval_key": "ret234"}
+{"caption": "[Android 5] The second screen of the onboarding is not displayed at all", "clip_name": "focus-android_issue_7599_video_1", "retrieval_key": "ret235"}
+{"caption": "For #7930: Allow title field to receive autocomplete suggestions from keyboard.", "clip_name": "focus-android_issue_7931_video_1", "retrieval_key": "ret236"}
+{"caption": "[android 5] Cannot dismiss the tabs tray list", "clip_name": "focus-android_issue_6614_video_1", "retrieval_key": "ret237"}
+{"caption": "The CFR for Shield Icon is incorrectly placed", "clip_name": "focus-android_issue_6332_video_1", "retrieval_key": "ret238"}
+{"caption": "Onboarding experiment is not applied from the first run", "clip_name": "focus-android_issue_7266_video_1", "retrieval_key": "ret239"}
+{"caption": "Trashcan icon overlaps cookies preferences prompts on TikTok/Soundcloud websites", "clip_name": "focus-android_issue_5704_video_1", "retrieval_key": "ret240"}
+{"caption": "Cannot load a different page on an already loaded tab on a Xiaomi device with Android 5", "clip_name": "focus-android_issue_5984_video_1", "retrieval_key": "ret241"}
+{"caption": "[L10N] \"Your Rights\" page cannot be scrolled on certain languages.", "clip_name": "focus-android_issue_5842_video_1", "retrieval_key": "ret242"}
+{"caption": "Media notification doesn't display the pause button", "clip_name": "focus-android_issue_6837_video_1", "retrieval_key": "ret243"}
+{"caption": " Trashcan icon overlaps various prompts on soundcloud.com", "clip_name": "focus-android_issue_5706_video_1", "retrieval_key": "ret244"}
+{"caption": "[bug] Closing one tab at a time (by tapping back) displays [0] tabs/trashcan briefly", "clip_name": "focus-android_issue_5254_video_1", "retrieval_key": "ret245"}
+{"caption": "[PiP] The video keeps playing when closing the PiP floating window", "clip_name": "focus-android_issue_6966_video_1", "retrieval_key": "ret246"}
+{"caption": "The URL displayed at the top of the context menu should be static in Portrait mode", "clip_name": "focus-android_issue_6736_video_1", "retrieval_key": "ret247"}
+{"caption": "For #5452 - Replace AppBarLayout.Behavior with BrowserToolbarBehavior", "clip_name": "focus-android_issue_5476_video_1", "retrieval_key": "ret248"}
+{"caption": "For #7430: Allow screen to turn off after media is paused/stopped", "clip_name": "focus-android_issue_7437_video_1", "retrieval_key": "ret249"}
+{"caption": "On some devices, the \"Search or enter address\" characters have less space between them when the keyboard is lowered", "clip_name": "focus-android_issue_5349_video_1", "retrieval_key": "ret250"}
+{"caption": "Can't select/delete/edit the URL link after searching on Google/other search engines", "clip_name": "focus-android_issue_5020_video_1", "retrieval_key": "ret251"}
+{"caption": "Cutoff options in the yahoo.com consent page ", "clip_name": "focus-android_issue_5381_video_1", "retrieval_key": "ret252"}
+{"caption": "[Android 5] \"Erase browsing history\" option from the notification does nothing", "clip_name": "focus-android_issue_5796_video_1", "retrieval_key": "ret253"}
+{"caption": "[Android 5] The voice search from the widget doesn't work", "clip_name": "focus-android_issue_7704_video_1", "retrieval_key": "ret254"}
+{"caption": "For #6542 - Open WindowRequest url in current tab if multitab is disabled", "clip_name": "focus-android_issue_6587_video_1", "retrieval_key": "ret255"}
+{"caption": "Black flicker displayed when changing the theme or language", "clip_name": "focus-android_issue_5970_video_1", "retrieval_key": "ret256"}
+{"caption": "Set tracking cfr to false on dismiss", "clip_name": "focus-android_issue_7010_video_1", "retrieval_key": "ret257"}
+{"caption": "Switching between Onboarding tour tips should be smoother ", "clip_name": "focus-android_issue_6206_video_1", "retrieval_key": "ret258"}
+{"caption": "[bug] The google.com reloads when tapping the trashcan", "clip_name": "focus-android_issue_5314_video_1", "retrieval_key": "ret259"}
+{"caption": "Integrate MediaSessionFullscreenFeature and MediaSessionFeature", "clip_name": "focus-android_issue_6336_video_2", "retrieval_key": "ret260"}
+{"caption": "about:crashcontent doesn't work on the \"child\" page", "clip_name": "focus-android_issue_5778_video_1", "retrieval_key": "ret261"}
+{"caption": "CFR's are dismissed when rotating the device to landscape", "clip_name": "focus-android_issue_6536_video_1", "retrieval_key": "ret262"}
+{"caption": "The download from https://www.thinkbroadband.com/download fails after it's resumed", "clip_name": "focus-android_issue_7224_video_1", "retrieval_key": "ret263"}
+{"caption": "Firefox crash notification is not displayed on devices with Android 11/Android 12", "clip_name": "focus-android_issue_6215_video_1", "retrieval_key": "ret264"}
+{"caption": "Changing the theme opens a new tab", "clip_name": "focus-android_issue_6959_video_2", "retrieval_key": "ret265"}
+{"caption": "Regression to animations during onboarding experience", "clip_name": "focus-android_issue_5132_video_2", "retrieval_key": "ret266"}
+{"caption": "The \"Add widget to home screen\" button from the widget prompt doesn't work on all devices", "clip_name": "focus-android_issue_7711_video_1", "retrieval_key": "ret267"}
+{"caption": "For #7136 Don\u2019t show shield icon CFR for pages with 0 trackers ", "clip_name": "focus-android_issue_7229_video_1", "retrieval_key": "ret268"}
+{"caption": "Missing options in the yahoo.com consent page in Landscape mode", "clip_name": "focus-android_issue_5477_video_1", "retrieval_key": "ret269"}
+{"caption": "Black flicker displayed when switching the \"Stealth\" and \"Use fingerprint to unlock app\" toggles ON/OFF", "clip_name": "focus-android_issue_5976_video_1", "retrieval_key": "ret270"}
+{"caption": "Add whats new url as a deeplink for the first tip", "clip_name": "focus-android_issue_5280_video_1", "retrieval_key": "ret271"}
+{"caption": "HTTPS turns into HTTP upon clicking a picture in Google search. (According to lock in the top-left corner)", "clip_name": "focus-android_issue_5920_video_2", "retrieval_key": "ret272"}
+{"caption": "Different theme for system insets when coming back to the app", "clip_name": "focus-android_issue_6762_video_1", "retrieval_key": "ret273"}
+{"caption": "Cannot use special characters when editing \"add to home screen\" shortcut title", "clip_name": "focus-android_issue_7930_video_1", "retrieval_key": "ret274"}
+{"caption": "Update to the new implementation of Activity.onCreateView", "clip_name": "focus-android_issue_7058_video_2", "retrieval_key": "ret275"}
+{"caption": "The \"Show search suggestions?\" prompt is improperly displayed in Landscape mode", "clip_name": "focus-android_issue_5506_video_1", "retrieval_key": "ret276"}
+{"caption": "Update studies learn more link", "clip_name": "focus-android_issue_6164_video_1", "retrieval_key": "ret277"}
+{"caption": "Cannot accept the cookies on some pages", "clip_name": "focus-android_issue_5844_video_1", "retrieval_key": "ret278"}
+{"caption": "[PiP] Some videos when in PiP mode display the toolbar of the tab", "clip_name": "focus-android_issue_6804_video_1", "retrieval_key": "ret279"}
+{"caption": "Searching through the widget doesn't open a new tab for each search", "clip_name": "focus-android_issue_7571_video_1", "retrieval_key": "ret280"}
+{"caption": "Cursor in search box teleports on m.youtube.com if you type as soon as the page loads", "clip_name": "focus-android_issue_7635_video_1", "retrieval_key": "ret281"}
+{"caption": "Regression: Multiple search engines with the same name/string to use can be added", "clip_name": "focus-android_issue_5317_video_1", "retrieval_key": "ret282"}
+{"caption": "Add option to provide Shortcuts name", "clip_name": "focus-android_issue_5975_video_1", "retrieval_key": "ret283"}
+{"caption": "Regression to animations during onboarding experience", "clip_name": "focus-android_issue_5132_video_1", "retrieval_key": "ret284"}
+{"caption": "Install splash screen in CrashListActivity.kt", "clip_name": "focus-android_issue_7155_video_1", "retrieval_key": "ret285"}
+{"caption": "Improper flicker displayed when tapping the PiP floating window", "clip_name": "focus-android_issue_6756_video_1", "retrieval_key": "ret286"}
+{"caption": "Dismiss tabs popup when onStop is called", "clip_name": "focus-android_issue_6765_video_1", "retrieval_key": "ret287"}
+{"caption": "Remove multi-tabs experiment", "clip_name": "focus-android_issue_7623_video_1", "retrieval_key": "ret288"}
+{"caption": "Dismiss ETP when onStop is called", "clip_name": "focus-android_issue_6800_video_1", "retrieval_key": "ret289"}
+{"caption": "The awesome bar displays a visual defect", "clip_name": "focus-android_issue_6165_video_1", "retrieval_key": "ret290"}
+{"caption": "Custom keyboard is displayed for a split second ", "clip_name": "focus-android_issue_5375_video_1", "retrieval_key": "ret291"}
+{"caption": "Update alert dialog style in AppTheme", "clip_name": "focus-android_issue_4932_video_1", "retrieval_key": "ret292"}
+{"caption": "Relocate erase and tabs counter to toolbar", "clip_name": "focus-android_issue_5852_video_1", "retrieval_key": "ret293"}
+{"caption": "For #7190:   App should not be locked in landscape when a tab or custom tab loads while in pip mode", "clip_name": "focus-android_issue_7197_video_1", "retrieval_key": "ret294"}
+{"caption": "Tapping on the page's URL, doesn't autoselect the URL", "clip_name": "focus-android_issue_5017_video_1", "retrieval_key": "ret295"}
+{"caption": "[debug] Tapping on a shortcut displays the \"tapping\" action briefly before opening the page", "clip_name": "focus-android_issue_5581_video_1", "retrieval_key": "ret296"}
+{"caption": "Incorrect behavior when opening links from skype", "clip_name": "focus-android_issue_5190_video_1", "retrieval_key": "ret297"}
+{"caption": "for #6966 The video should not play when closing the PiP floating window", "clip_name": "focus-android_issue_7078_video_1", "retrieval_key": "ret298"}
+{"caption": "The toolbar remains displayed when scrolling down on different pages on tmall.com", "clip_name": "focus-android_issue_5466_video_1", "retrieval_key": "ret299"}
+{"caption": "Focus Nightly freezes after CFR's for delete icon is displayed, and the devices was rotated", "clip_name": "focus-android_issue_6526_video_1", "retrieval_key": "ret300"}
+{"caption": "Tab is not overridden in about:debugging", "clip_name": "focus-android_issue_6599_video_1", "retrieval_key": "ret301"}
+{"caption": "[L10N] The new onboarding is wronlgy displayed and scrollable in RTL languages", "clip_name": "focus-android_issue_6639_video_1", "retrieval_key": "ret302"}
+{"caption": "Add a search engine- support page is not opened, instead the browser is closed", "clip_name": "focus-android_issue_4881_video_1", "retrieval_key": "ret303"}
+{"caption": "Paused audio starts without the users action on the \"Play\" option", "clip_name": "focus-android_issue_8039_video_1", "retrieval_key": "ret304"}
+{"caption": "[Bug] Error 0/0 displayed when tapping fast on \"Find in page\" toolbar's arrows", "clip_name": "focus-android_issue_5181_video_1", "retrieval_key": "ret305"}
+{"caption": "[crash] Debug build crashes when refreshing the page", "clip_name": "focus-android_issue_5006_video_1", "retrieval_key": "ret306"}
+{"caption": "\"Erase and open\" opens the new session in PiP mode ", "clip_name": "focus-android_issue_6755_video_1", "retrieval_key": "ret307"}
+{"caption": "Bottom bar should remain displayed at all times when scrolling on different websites", "clip_name": "focus-android_issue_5705_video_2", "retrieval_key": "ret308"}
+{"caption": "Changing the theme/language caused a previously closed webpage to be reopened constantly - single event issue ", "clip_name": "focus-android_issue_6219_video_1", "retrieval_key": "ret309"}
+{"caption": "[L10N] SUMO pages are displayed in different language than the device's language", "clip_name": "focus-android_issue_6638_video_1", "retrieval_key": "ret310"}
+{"caption": "No option to report content crash or to restore / close crashed tab.", "clip_name": "focus-android_issue_6677_video_1", "retrieval_key": "ret311"}
+{"caption": "Dismiss tabs popup when the external container is clicked", "clip_name": "focus-android_issue_6902_video_1", "retrieval_key": "ret312"}
+{"caption": "HTTPS only mode is working only when a pref in about:config is changed", "clip_name": "focus-android_issue_7384_video_1", "retrieval_key": "ret313"}
+{"caption": "Bottom menu bar remains displayed when scrolling down on different top sites", "clip_name": "focus-android_issue_5456_video_1", "retrieval_key": "ret314"}
+{"caption": "about:crashcontent doesn't work", "clip_name": "focus-android_issue_4746_video_1", "retrieval_key": "ret315"}
+{"caption": "Merge top site tab", "clip_name": "focus-android_issue_7578_video_1", "retrieval_key": "ret316"}
+{"caption": "The prompt isn't dismissed after \"Erase\" option is selected", "clip_name": "focus-android_issue_5857_video_1", "retrieval_key": "ret317"}
+{"caption": "For #7075: Expand toolbar on navigation or load request", "clip_name": "focus-android_issue_7088_video_1", "retrieval_key": "ret318"}
+{"caption": "The homescreen is displayed briefly before the new onboarding", "clip_name": "focus-android_issue_7927_video_1", "retrieval_key": "ret319"}
+{"caption": "java.lang.IllegalStateException: SET SESSION: Current activity: CustomTabActivity hashcode 5303933 Other activity: MainActivity hashcode 16940721", "clip_name": "focus-android_issue_5594_video_1", "retrieval_key": "ret320"}
+{"caption": "Integrate MediaSessionFullscreenFeature and MediaSessionFeature", "clip_name": "focus-android_issue_6336_video_1", "retrieval_key": "ret321"}
+{"caption": "For #6528 - Evaluate Nimbus experiments in place", "clip_name": "focus-android_issue_6575_video_1", "retrieval_key": "ret322"}
+{"caption": "Tabs tray remains improperly displayed at all times", "clip_name": "focus-android_issue_6729_video_1", "retrieval_key": "ret323"}
+{"caption": "Add support for links that open third-party apps (feature-applinks)", "clip_name": "focus-android_issue_4749_video_1", "retrieval_key": "ret324"}
+{"caption": "The about:crashcontent displays a blank page when accessed", "clip_name": "focus-android_issue_6512_video_1", "retrieval_key": "ret325"}
+{"caption": "Tabs are not restored after closing the crash report", "clip_name": "focus-android_issue_5524_video_1", "retrieval_key": "ret326"}
+{"caption": "For #7140 : Let A-C handle toolbar expanding when URL changes", "clip_name": "focus-android_issue_7142_video_1", "retrieval_key": "ret327"}
+{"caption": "Hide floating buttons when the keyboard is shown", "clip_name": "focus-android_issue_4963_video_1", "retrieval_key": "ret328"}
+{"caption": "Update pending intent flags", "clip_name": "focus-android_issue_6247_video_1", "retrieval_key": "ret329"}
+{"caption": "[crash] Focus Nightly crashes when a search is performed on Android 5", "clip_name": "focus-android_issue_7269_video_1", "retrieval_key": "ret330"}
+{"caption": "Several links from https://rpappalax.github.io/testapp don't work", "clip_name": "focus-android_issue_4742_video_1", "retrieval_key": "ret331"}
+{"caption": " Trashcan icon overlaps various prompts on soundcloud.com", "clip_name": "focus-android_issue_5706_video_2", "retrieval_key": "ret332"}
+{"caption": "The options from app's shortcut don't work on Focus Nightly", "clip_name": "focus-android_issue_5851_video_1", "retrieval_key": "ret333"}
+{"caption": "Changing the theme opens a new tab", "clip_name": "focus-android_issue_6959_video_1", "retrieval_key": "ret334"}
+{"caption": "The \"back\" action does not redirect the user correctly", "clip_name": "focus-android_issue_7473_video_1", "retrieval_key": "ret335"}
+{"caption": "Open in app popup on every click", "clip_name": "focus-android_issue_5252_video_1", "retrieval_key": "ret336"}
+{"caption": "For #7430: Allow screen to turn off after media is paused/stopped", "clip_name": "focus-android_issue_7458_video_1", "retrieval_key": "ret337"}
+{"caption": "HTTPS turns into HTTP upon clicking a picture in Google search. (According to lock in the top-left corner)", "clip_name": "focus-android_issue_5920_video_1", "retrieval_key": "ret338"}
+{"caption": "Relocate the toolbar to activity", "clip_name": "focus-android_issue_7322_video_1", "retrieval_key": "ret339"}
+{"caption": "The Homescreen background changes to system default after rotating the device, when other language than system default is selected.", "clip_name": "focus-android_issue_5971_video_1", "retrieval_key": "ret340"}
+{"caption": "[RTL L10N] The \"Languages\" page's back arrow is incorrect", "clip_name": "focus-android_issue_7423_video_1", "retrieval_key": "ret341"}
+{"caption": "Custom Tabs context menu not working ", "clip_name": "focus-android_issue_5195_video_1", "retrieval_key": "ret342"}
+{"caption": "The CFR for Shield Icon cannot be dismissed by tapping outside the prompt on Android 5 tablet", "clip_name": "focus-android_issue_6334_video_1", "retrieval_key": "ret343"}
+{"caption": "Carousel tips are improperly displayed in landscape mode when the keyboard is invoked/dismissed", "clip_name": "focus-android_issue_5366_video_2", "retrieval_key": "ret344"}
+{"caption": "Focus crashes when downloading a media file on Google Pixel 6 (Android 12) ", "clip_name": "focus-android_issue_6346_video_1", "retrieval_key": "ret345"}
+{"caption": "[debug] Focus freezes after tapping on the trashcan", "clip_name": "focus-android_issue_5429_video_1", "retrieval_key": "ret346"}
+{"caption": "Tapping the trashcan, empties the toolbar, then closes the tab", "clip_name": "focus-android_issue_6024_video_1", "retrieval_key": "ret347"}
+{"caption": "Update pending intent flags", "clip_name": "focus-android_issue_6247_video_2", "retrieval_key": "ret348"}
+{"caption": "[Fission] The tab crashes when attempting to access an unsecure page with HTTPS-Only Mode enabled", "clip_name": "focus-android_issue_7231_video_1", "retrieval_key": "ret349"}
+{"caption": "[android 5] Pages are zoomed when changing from portrait to landscape and viceversa", "clip_name": "focus-android_issue_6385_video_1", "retrieval_key": "ret350"}
+{"caption": "Rotating device does not use the landscape background ", "clip_name": "focus-android_issue_5401_video_1", "retrieval_key": "ret351"}
+{"caption": "[Android 5] Focus crashes when camera is allowed on Xiaomi mi4i", "clip_name": "focus-android_issue_7096_video_1", "retrieval_key": "ret352"}
+{"caption": "The trashcan CFR isn't displayed at all after rotating the device while the TP CFR is displayed", "clip_name": "focus-android_issue_7652_video_2", "retrieval_key": "ret353"}
+{"caption": "Trashcan icon overlaps option \"I Agree\" and \"Terms\" link in the YouTube consent page.", "clip_name": "focus-android_issue_5455_video_1", "retrieval_key": "ret354"}
+{"caption": "Web content that is sticky to the bottom is hidden until refresh", "clip_name": "focus-android_issue_5884_video_1", "retrieval_key": "ret355"}
+{"caption": "Albums with links in the caption open the link instead of the album", "clip_name": "Slide_issue_3472_video_1", "retrieval_key": "ret356"}
+{"caption": "Hide Keyboard when Scrolling in OnlineLibraryFragment/PagerFragment", "clip_name": "kiwix-android_issue_2717_video_1", "retrieval_key": "ret357"}
+{"caption": "Fixed red effect while changing the tabs", "clip_name": "kiwix-android_issue_3305_video_1", "retrieval_key": "ret358"}
+{"caption": "Fixes of Display Navigation History", "clip_name": "kiwix-android_issue_3239_video_1", "retrieval_key": "ret359"}
+{"caption": "Fix #1542 : Makes socket address user friendly", "clip_name": "kiwix-android_issue_2679_video_1", "retrieval_key": "ret360"}
+{"caption": "Hide Keyboard when Scrolling in OnlineLibraryFragment/PagerFragment", "clip_name": "kiwix-android_issue_2717_video_2", "retrieval_key": "ret361"}
+{"caption": "Fixes of When we scroll up, then white space showing in ```LocalLibraryFragment```", "clip_name": "kiwix-android_issue_3254_video_1", "retrieval_key": "ret362"}
+{"caption": "Disable the Note Save button after the note has been saved ", "clip_name": "kiwix-android_issue_3269_video_1", "retrieval_key": "ret363"}
+{"caption": "Fixes of unable to navigate between the fragments", "clip_name": "kiwix-android_issue_3300_video_1", "retrieval_key": "ret364"}
+{"caption": "Fixed red effect while changing the tabs", "clip_name": "kiwix-android_issue_3305_video_2", "retrieval_key": "ret365"}
+{"caption": "When we scroll up, then white space showing in LocalLibraryFragment .", "clip_name": "kiwix-android_issue_3240_video_1", "retrieval_key": "ret366"}
+{"caption": "Added MediaScanner for scanning images", "clip_name": "kiwix-android_issue_2593_video_1", "retrieval_key": "ret367"}
+{"caption": "Downloading `ZIM files` are not working in `Play Store Variant`", "clip_name": "kiwix-android_issue_3287_video_1", "retrieval_key": "ret368"}
+{"caption": "Keyboard doesnt hide when clicked on menu buttons of download screen and choose language ", "clip_name": "kiwix-android_issue_2756_video_1", "retrieval_key": "ret369"}
+{"caption": "Images not appearing after using the random article function", "clip_name": "kiwix-android_issue_2672_video_1", "retrieval_key": "ret370"}
+{"caption": "created and implemented disableSaveNoteMenuItem function", "clip_name": "kiwix-android_issue_3270_video_1", "retrieval_key": "ret371"}
+{"caption": "Fixes of files which are too big to be downloaded in the local storage should be greyed", "clip_name": "kiwix-android_issue_3232_video_2", "retrieval_key": "ret372"}
+{"caption": "#2068 added At first download, ask to choose beetween internal and ex\u2026", "clip_name": "kiwix-android_issue_2747_video_1", "retrieval_key": "ret373"}
+{"caption": "App Freezes when storage permission denied", "clip_name": "kiwix-android_issue_3251_video_1", "retrieval_key": "ret374"}
+{"caption": "Bottom Navigation disappear after saving language", "clip_name": "kiwix-android_issue_3208_video_1", "retrieval_key": "ret375"}
+{"caption": "Control read aloud from notification", "clip_name": "kiwix-android_issue_3222_video_1", "retrieval_key": "ret376"}
+{"caption": "Hide Keyboard when Scrolling in OnlineLibraryFragment/PagerFragment", "clip_name": "kiwix-android_issue_2718_video_1", "retrieval_key": "ret377"}
+{"caption": "Fixes of unable to navigate between the fragments", "clip_name": "kiwix-android_issue_3300_video_2", "retrieval_key": "ret378"}
+{"caption": "fixed storage denied toast loop issue", "clip_name": "kiwix-android_issue_3252_video_1", "retrieval_key": "ret379"}
+{"caption": "Double Character Input with Unihertz Titan Pocket", "clip_name": "kiwix-android_issue_2725_video_1", "retrieval_key": "ret380"}
+{"caption": "Fixes of files which are too big to be downloaded in the local storage should be greyed", "clip_name": "kiwix-android_issue_3232_video_1", "retrieval_key": "ret381"}
+{"caption": "Articles containing \"?\" cannot be opened", "clip_name": "kiwix-android_issue_2671_video_2", "retrieval_key": "ret382"}
+{"caption": "Fixed Downloading ZIM files are not working in Play Store Variant", "clip_name": "kiwix-android_issue_3288_video_1", "retrieval_key": "ret383"}
+{"caption": "Remove the need for storage permissions", "clip_name": "kiwix-android_issue_3264_video_1", "retrieval_key": "ret384"}
+{"caption": "Multiple copies of same book are appearing in downloads section", "clip_name": "kiwix-android_issue_3253_video_1", "retrieval_key": "ret385"}
+{"caption": "#2717 Hide Keyboard when Scrolling in OnlineLibraryFragment/PagerFragment", "clip_name": "kiwix-android_issue_2736_video_1", "retrieval_key": "ret386"}
+{"caption": "Articles containing \"?\" cannot be opened", "clip_name": "kiwix-android_issue_2671_video_1", "retrieval_key": "ret387"}
+{"caption": "Article opening after search page result leads to blank  page on wikihow (Chinese)", "clip_name": "kiwix-android_issue_3094_video_1", "retrieval_key": "ret388"}
+{"caption": "Application crashes while searching in inside the app", "clip_name": "kiwix-android_issue_2577_video_1", "retrieval_key": "ret389"}
+{"caption": "Scrolling the map becomes extremely difficult when you aren't in north orientation - it starts bouncing in the opposite direction", "clip_name": "osmdroid_issue_1695_video_1", "retrieval_key": "ret390"}
+{"caption": "Share image to other platforms feature not working", "clip_name": "phimpme-android_issue_3178_video_1", "retrieval_key": "ret391"}
+{"caption": "App Crashes while loading images", "clip_name": "phimpme-android_issue_1102_video_1", "retrieval_key": "ret392"}
+{"caption": "Fix: #1102 App Crashes while loading images", "clip_name": "phimpme-android_issue_1106_video_1", "retrieval_key": "ret393"}
+{"caption": "Update FAB UI for more intuitive double tapping", "clip_name": "Anki-Android_issue_12280_video_1", "retrieval_key": "ret394"}
+{"caption": "[Bug] New cards don't go to its set location", "clip_name": "Anki-Android_issue_11024_video_1", "retrieval_key": "ret395"}
+{"caption": "Fix Title to recall what gesture the window is for", "clip_name": "Anki-Android_issue_12329_video_1", "retrieval_key": "ret396"}
+{"caption": "Pop-up menu is skipped after clicking back on the confrimation dialog", "clip_name": "Anki-Android_issue_12053_video_1", "retrieval_key": "ret397"}
+{"caption": "2.17: Convert MyAccount into a Fragment", "clip_name": "Anki-Android_issue_13712_video_1", "retrieval_key": "ret398"}
+{"caption": "[Bug] Option icons color changes on screen rotation", "clip_name": "Anki-Android_issue_11060_video_1", "retrieval_key": "ret399"}
+{"caption": "[Bug] Not adding suggestion in TAGS", "clip_name": "Anki-Android_issue_13021_video_1", "retrieval_key": "ret400"}
+{"caption": "Edit feature added to custom toolbar button", "clip_name": "Anki-Android_issue_10464_video_1", "retrieval_key": "ret401"}
+{"caption": "fix: Disable \"force full sync\" preference when user is not logged in", "clip_name": "Anki-Android_issue_13379_video_2", "retrieval_key": "ret402"}
+{"caption": "Solved double ripple effect.", "clip_name": "Anki-Android_issue_10702_video_2", "retrieval_key": "ret403"}
+{"caption": "Refactor themes/fix night mode", "clip_name": "Anki-Android_issue_11555_video_2", "retrieval_key": "ret404"}
+{"caption": "Use manually translated language names instead of getting them from java libraries", "clip_name": "Anki-Android_issue_13259_video_1", "retrieval_key": "ret405"}
+{"caption": "[Bug] Card browser loads filtered/custom study decks only if previously selected", "clip_name": "Anki-Android_issue_10684_video_1", "retrieval_key": "ret406"}
+{"caption": "feat: support for svg in card", "clip_name": "Anki-Android_issue_9703_video_1", "retrieval_key": "ret407"}
+{"caption": "[GSoC] migrated AnkiStatsTaskHandler.createStatisticsOverview() to suspend function", "clip_name": "Anki-Android_issue_11628_video_2", "retrieval_key": "ret408"}
+{"caption": "Use manually translated language names instead of getting them from java libraries", "clip_name": "Anki-Android_issue_13275_video_1", "retrieval_key": "ret409"}
+{"caption": "Converting all the Checkbox in Preference section into Toggle Switches", "clip_name": "Anki-Android_issue_10857_video_1", "retrieval_key": "ret410"}
+{"caption": "[GSoC] Make Filters persistent in Filter Sheet", "clip_name": "Anki-Android_issue_12145_video_1", "retrieval_key": "ret411"}
+{"caption": "[Bug] \"Undo\" item's title isn't switched to one for whiteboard mode", "clip_name": "Anki-Android_issue_12960_video_1", "retrieval_key": "ret412"}
+{"caption": "Displaying toast when creating deck with any existing deck name", "clip_name": "Anki-Android_issue_10528_video_2", "retrieval_key": "ret413"}
+{"caption": "Show toast after undo", "clip_name": "Anki-Android_issue_10454_video_1", "retrieval_key": "ret414"}
+{"caption": "[BUG]: The progress indicator of the ongoing-migration button sometimes gets stuck at 0%", "clip_name": "Anki-Android_issue_13454_video_1", "retrieval_key": "ret415"}
+{"caption": "\"Deck Search\" display now same as the Deck Viewer", "clip_name": "Anki-Android_issue_10389_video_1", "retrieval_key": "ret416"}
+{"caption": "Increasing privacy policy compliance", "clip_name": "Anki-Android_issue_9099_video_1", "retrieval_key": "ret417"}
+{"caption": "Follow system dark mode", "clip_name": "Anki-Android_issue_10520_video_1", "retrieval_key": "ret418"}
+{"caption": "Add Anki's new Deck Options page", "clip_name": "Anki-Android_issue_12175_video_1", "retrieval_key": "ret419"}
+{"caption": "[Bug] Card colour does not get updated on selecting a flag", "clip_name": "Anki-Android_issue_8466_video_1", "retrieval_key": "ret420"}
+{"caption": "startActivityForResult migration in Preferences.kt", "clip_name": "Anki-Android_issue_10535_video_2", "retrieval_key": "ret421"}
+{"caption": "[GSoC] Filter Sheet: Add filters for flags", "clip_name": "Anki-Android_issue_11713_video_1", "retrieval_key": "ret422"}
+{"caption": "Release TextToSpeech with a Context", "clip_name": "Anki-Android_issue_8155_video_1", "retrieval_key": "ret423"}
+{"caption": "[Bug] Preferences title isn't reupdated after opening a screen option", "clip_name": "Anki-Android_issue_10442_video_1", "retrieval_key": "ret424"}
+{"caption": "GoldenDict support in the edit-card window", "clip_name": "Anki-Android_issue_8115_video_1", "retrieval_key": "ret425"}
+{"caption": "The FullscreenMode must be on default value if gesture is disabled", "clip_name": "Anki-Android_issue_12995_video_1", "retrieval_key": "ret426"}
+{"caption": "[Bug] Card Brower can't show filter deck 2.16alpha63", "clip_name": "Anki-Android_issue_11218_video_1", "retrieval_key": "ret427"}
+{"caption": "[Bug] Tapping resources button registers as a tap to answer the card", "clip_name": "Anki-Android_issue_9974_video_1", "retrieval_key": "ret428"}
+{"caption": "[Bug] After creating a subdeck, its parent deck's menu is displayed again", "clip_name": "Anki-Android_issue_10632_video_1", "retrieval_key": "ret429"}
+{"caption": "Kotlin Cleanup in DeckPickerFloatingActionMenu.Kt", "clip_name": "Anki-Android_issue_10525_video_1", "retrieval_key": "ret430"}
+{"caption": "Fixes #7910 Select many option in Card browser", "clip_name": "Anki-Android_issue_8278_video_1", "retrieval_key": "ret431"}
+{"caption": "[Bug] The keyboard is not showing automatically when clicking on EditTextPreference (Search)", "clip_name": "Anki-Android_issue_13775_video_2", "retrieval_key": "ret432"}
+{"caption": "Moved recording buttons outside the scroll view as it should always be on the screen.", "clip_name": "Anki-Android_issue_13096_video_2", "retrieval_key": "ret433"}
+{"caption": "[Bug] Card Browser - Select Many Crash", "clip_name": "Anki-Android_issue_8460_video_1", "retrieval_key": "ret434"}
+{"caption": "startActivityForResult migration to newer API in AbstractFlashCardViewer", "clip_name": "Anki-Android_issue_10562_video_1", "retrieval_key": "ret435"}
+{"caption": "Ankidroid alpha90, crash after trying to edit tags", "clip_name": "Anki-Android_issue_12858_video_1", "retrieval_key": "ret436"}
+{"caption": "[Bug] 2.15.0Bata Statistics for another deck are displayed", "clip_name": "Anki-Android_issue_8826_video_1", "retrieval_key": "ret437"}
+{"caption": "Numbering decks and sorting them", "clip_name": "Anki-Android_issue_11248_video_1", "retrieval_key": "ret438"}
+{"caption": "Displaying toast when creating deck with any existing deck name", "clip_name": "Anki-Android_issue_10528_video_1", "retrieval_key": "ret439"}
+{"caption": "[STOR-05] \"Migration Successful\" notification & dialog", "clip_name": "Anki-Android_issue_13417_video_1", "retrieval_key": "ret440"}
+{"caption": "[GSoC] Reorganize reviewing preferences", "clip_name": "Anki-Android_issue_11522_video_1", "retrieval_key": "ret441"}
+{"caption": "After learning the filtered deck, the \"empty\" button is replaced by the \"undo\" button, and this button does not respond when clicked", "clip_name": "Anki-Android_issue_11220_video_1", "retrieval_key": "ret442"}
+{"caption": "[Bug] The \"yes\" and \"No\" actions in the \"Empty cards\" alert dialog appear to be switched with each other", "clip_name": "Anki-Android_issue_12790_video_1", "retrieval_key": "ret443"}
+{"caption": "fixed automatic creation of deck with name 'All decks'", "clip_name": "Anki-Android_issue_11907_video_1", "retrieval_key": "ret444"}
+{"caption": "Fix compress format and extension format.", "clip_name": "Anki-Android_issue_13052_video_2", "retrieval_key": "ret445"}
+{"caption": "Moved cursor to end in NumberRangePreferenceCompat", "clip_name": "Anki-Android_issue_13800_video_1", "retrieval_key": "ret446"}
+{"caption": "ResetPassword is hidden behind the ```sign_up_description```", "clip_name": "Anki-Android_issue_9547_video_1", "retrieval_key": "ret447"}
+{"caption": "Login Activity does not support closing the keyboard when clicking in the background.", "clip_name": "Anki-Android_issue_9546_video_1", "retrieval_key": "ret448"}
+{"caption": "[Bug] [Visual] Truncate content option does not stay checked after changing decks, though content is truncated", "clip_name": "Anki-Android_issue_11848_video_1", "retrieval_key": "ret449"}
+{"caption": "[Bug] Crash: Studying all \"due\" cards started from \"Study\" shortcut ends up closing AnkiDroid without returning to Decks screen with \"Congraturations!\" snackbar", "clip_name": "Anki-Android_issue_10841_video_1", "retrieval_key": "ret450"}
+{"caption": "Export selected cards from Browser", "clip_name": "Anki-Android_issue_12524_video_1", "retrieval_key": "ret451"}
+{"caption": "[GSoC] Implement the CSV importer", "clip_name": "Anki-Android_issue_12105_video_1", "retrieval_key": "ret452"}
+{"caption": "Fix crash when editing note and adding audio", "clip_name": "Anki-Android_issue_12867_video_2", "retrieval_key": "ret453"}
+{"caption": "[Bug] Press-back count isn't reset when returning to `Decks` screen", "clip_name": "Anki-Android_issue_10638_video_1", "retrieval_key": "ret454"}
+{"caption": "[GSoC] Refactor preferences action bar title configuration", "clip_name": "Anki-Android_issue_11572_video_1", "retrieval_key": "ret455"}
+{"caption": "[GSoC] Create a new about category", "clip_name": "Anki-Android_issue_11803_video_1", "retrieval_key": "ret456"}
+{"caption": "An error occurs when you change an ordinary word into a cloze", "clip_name": "Anki-Android_issue_11626_video_1", "retrieval_key": "ret457"}
+{"caption": "startActivityForResult migration to newer API in AbstractFlashCardViewer", "clip_name": "Anki-Android_issue_10562_video_2", "retrieval_key": "ret458"}
+{"caption": "Screen flickering when advancing through cards", "clip_name": "Anki-Android_issue_13426_video_1", "retrieval_key": "ret459"}
+{"caption": "Fix `follow system dark mode` on custom/auto schedule", "clip_name": "Anki-Android_issue_11540_video_1", "retrieval_key": "ret460"}
+{"caption": "Fix IntentHandler not having a theme", "clip_name": "Anki-Android_issue_13709_video_1", "retrieval_key": "ret461"}
+{"caption": "Implement app introduction system", "clip_name": "Anki-Android_issue_9130_video_1", "retrieval_key": "ret462"}
+{"caption": "fixed landscape screen issue with intro screen", "clip_name": "Anki-Android_issue_13074_video_1", "retrieval_key": "ret463"}
+{"caption": "Moved recording buttons outside the scroll view as it should always be on the screen.", "clip_name": "Anki-Android_issue_13096_video_1", "retrieval_key": "ret464"}
+{"caption": "[GSoC] migrated AnkiStatsTaskHandler.createChart() to suspend function", "clip_name": "Anki-Android_issue_11556_video_1", "retrieval_key": "ret465"}
+{"caption": "[Bug] v2.16alpha65 Can't use back or return button to save changes in deck options", "clip_name": "Anki-Android_issue_11332_video_1", "retrieval_key": "ret466"}
+{"caption": "Fixed `ExportCompleteDialog`'s neutral buttons deprecation", "clip_name": "Anki-Android_issue_11789_video_1", "retrieval_key": "ret467"}
+{"caption": "Reverse Activity transition for RTL language", "clip_name": "Anki-Android_issue_8470_video_1", "retrieval_key": "ret468"}
+{"caption": "[GSoC] enhanced error handling when launching coroutines", "clip_name": "Anki-Android_issue_11679_video_1", "retrieval_key": "ret469"}
+{"caption": "[Bug] an invalid \"Undo\" button appears on Deck Overview screen", "clip_name": "Anki-Android_issue_12277_video_1", "retrieval_key": "ret470"}
+{"caption": "Refactor themes/fix night mode", "clip_name": "Anki-Android_issue_11555_video_1", "retrieval_key": "ret471"}
+{"caption": "Added `Try Anyway` button for login screen", "clip_name": "Anki-Android_issue_10414_video_1", "retrieval_key": "ret472"}
+{"caption": "[EditNote][DeckSelectionDialog] Highlight Selected item", "clip_name": "Anki-Android_issue_9765_video_2", "retrieval_key": "ret473"}
+{"caption": "anki_eco: card previewer shows fields labels if all fields are null.", "clip_name": "Anki-Android_issue_9739_video_1", "retrieval_key": "ret474"}
+{"caption": "Implement onboarding for new users with feature tutorials", "clip_name": "Anki-Android_issue_9092_video_1", "retrieval_key": "ret475"}
+{"caption": "Fix Filter sheet item colors not updating", "clip_name": "Anki-Android_issue_12378_video_2", "retrieval_key": "ret476"}
+{"caption": "Helper Class For FilterDeck/Deck Options", "clip_name": "Anki-Android_issue_8787_video_1", "retrieval_key": "ret477"}
+{"caption": "[Bug] Flag display on reviewer minibar is inconsistent when changing flags", "clip_name": "Anki-Android_issue_10691_video_1", "retrieval_key": "ret478"}
+{"caption": "[Bug] Multiple blank deck created on tapping `::Test` deck name", "clip_name": "Anki-Android_issue_11026_video_1", "retrieval_key": "ret479"}
+{"caption": "added migration progess bar ", "clip_name": "Anki-Android_issue_13219_video_1", "retrieval_key": "ret480"}
+{"caption": "Migrate AnkiDroid folder to External Scoped App-Specific Directory", "clip_name": "Anki-Android_issue_9123_video_1", "retrieval_key": "ret481"}
+{"caption": "[BUG]: DeckPickerMenuOption is still alive on screen after selecting an option", "clip_name": "Anki-Android_issue_13740_video_1", "retrieval_key": "ret482"}
+{"caption": "[Bug] Crash when click the back button from the \"SAVE TO FILE\" page", "clip_name": "Anki-Android_issue_12936_video_1", "retrieval_key": "ret483"}
+{"caption": "fix: suppressed stack trace when error in coroutine occurs.", "clip_name": "Anki-Android_issue_12243_video_1", "retrieval_key": "ret484"}
+{"caption": "[Bug] Ripple effect is accompanied by another ripple on Decks screen\u3000", "clip_name": "Anki-Android_issue_10634_video_1", "retrieval_key": "ret485"}
+{"caption": "[Need Feedback/Help] Draft Fix for Study Shortcut Bug", "clip_name": "Anki-Android_issue_10902_video_2", "retrieval_key": "ret486"}
+{"caption": "Localize backups date and add Choose another button", "clip_name": "Anki-Android_issue_10396_video_1", "retrieval_key": "ret487"}
+{"caption": "fix: Added product flavor to debug info", "clip_name": "Anki-Android_issue_13585_video_1", "retrieval_key": "ret488"}
+{"caption": "Make animation transitions use the same direction of used swipe gesture", "clip_name": "Anki-Android_issue_11095_video_1", "retrieval_key": "ret489"}
+{"caption": "Fix IntentHandler not having a theme", "clip_name": "Anki-Android_issue_13709_video_2", "retrieval_key": "ret490"}
+{"caption": "[Bug] [2.16alpha54] Crash on opening `Deck options`", "clip_name": "Anki-Android_issue_10687_video_2", "retrieval_key": "ret491"}
+{"caption": "Fix paste from browser into note field not working", "clip_name": "Anki-Android_issue_11656_video_1", "retrieval_key": "ret492"}
+{"caption": "[Bug] Full sync button don't work properly on Incompatible Database dialog", "clip_name": "Anki-Android_issue_10394_video_1", "retrieval_key": "ret493"}
+{"caption": "[Bug] 2.15.0Bata Inconsistency of target deck name on note creation screen", "clip_name": "Anki-Android_issue_8825_video_1", "retrieval_key": "ret494"}
+{"caption": "[Bug] Crashing when tapping Add note", "clip_name": "Anki-Android_issue_10434_video_1", "retrieval_key": "ret495"}
+{"caption": "Don't close the app before opening the `All files access` screen", "clip_name": "Anki-Android_issue_13463_video_1", "retrieval_key": "ret496"}
+{"caption": "App is not getting restarted when switching between day and night mode.", "clip_name": "Anki-Android_issue_8694_video_1", "retrieval_key": "ret497"}
+{"caption": "Don't create backup after restore", "clip_name": "Anki-Android_issue_10360_video_1", "retrieval_key": "ret498"}
+{"caption": "Used AutoFocusEditTextPreference instead of EditTextPreference", "clip_name": "Anki-Android_issue_13776_video_1", "retrieval_key": "ret499"}
+{"caption": "NF: Remove getbase:floatingactionbutton dependency", "clip_name": "Anki-Android_issue_11548_video_2", "retrieval_key": "ret500"}
+{"caption": "Don't finish activity after requesting all files access permission", "clip_name": "Anki-Android_issue_13519_video_1", "retrieval_key": "ret501"}
+{"caption": "[Bug] Audio doesn't stop after hiding the answer in the note preview ", "clip_name": "Anki-Android_issue_8716_video_1", "retrieval_key": "ret502"}
+{"caption": "[Bug] Delete Deck Dialog Dismisses Immediately Upon Opening", "clip_name": "Anki-Android_issue_13751_video_1", "retrieval_key": "ret503"}
+{"caption": "DatabaseErrorDialog shouldn't be cancellable by outside touches. ", "clip_name": "Anki-Android_issue_11894_video_1", "retrieval_key": "ret504"}
+{"caption": "[GSoC] migrated LoadPronunciationActivity to Coroutines", "clip_name": "Anki-Android_issue_11681_video_2", "retrieval_key": "ret505"}
+{"caption": "[Bug] After tapping some items of the menu of Study screen, unnecessary changes get shown for a moment", "clip_name": "Anki-Android_issue_10785_video_1", "retrieval_key": "ret506"}
+{"caption": "Add play/pause audio in notes", "clip_name": "Anki-Android_issue_8781_video_1", "retrieval_key": "ret507"}
+{"caption": "[Bug] There seems to be some issues with the recording function, which sometimes caused my phone to stuck", "clip_name": "Anki-Android_issue_11363_video_1", "retrieval_key": "ret508"}
+{"caption": "[GSoC] preferences refactors + move \"Open changelog\" to the \"About\" screen", "clip_name": "Anki-Android_issue_12009_video_3", "retrieval_key": "ret509"}
+{"caption": "SelectableDeck: Don't Keep Activities Crash", "clip_name": "Anki-Android_issue_10698_video_1", "retrieval_key": "ret510"}
+{"caption": "migration from startActivityForResult to new API in ModelBrowser.java", "clip_name": "Anki-Android_issue_10533_video_1", "retrieval_key": "ret511"}
+{"caption": "Make \"Undo\" item's title for whiteboard mode", "clip_name": "Anki-Android_issue_12961_video_1", "retrieval_key": "ret512"}
+{"caption": "Pop-up menu is skipped after clicking back on the confrimation dialog", "clip_name": "Anki-Android_issue_12053_video_2", "retrieval_key": "ret513"}
+{"caption": "Modifying login UI of the app", "clip_name": "Anki-Android_issue_8347_video_1", "retrieval_key": "ret514"}
+{"caption": "DeckPickerMenuOption Bug fix", "clip_name": "Anki-Android_issue_13741_video_1", "retrieval_key": "ret515"}
+{"caption": "Minor Fix for DeckPicker Translation/String Resource Issue", "clip_name": "Anki-Android_issue_10778_video_1", "retrieval_key": "ret516"}
+{"caption": "[GSoC] preferences refactors + move \"Open changelog\" to the \"About\" screen", "clip_name": "Anki-Android_issue_12009_video_1", "retrieval_key": "ret517"}
+{"caption": "[Bug] Crash: Tapping \"Study\" shortcut ends up closing AnkiDroid immediately without any explanation if the last-selected deck doesn't have any \"due\" cards", "clip_name": "Anki-Android_issue_10840_video_1", "retrieval_key": "ret518"}
+{"caption": "alert user before resetting app bar buttons", "clip_name": "Anki-Android_issue_13179_video_1", "retrieval_key": "ret519"}
+{"caption": "[Bug] The FAB does not disappear when searching decks", "clip_name": "Anki-Android_issue_10797_video_2", "retrieval_key": "ret520"}
+{"caption": "[BUG]: create button is clickable when input fields in empty", "clip_name": "Anki-Android_issue_13743_video_1", "retrieval_key": "ret521"}
+{"caption": "[Bug] After tapping some items of the menu of Study screen, unnecessary changes get shown for a moment", "clip_name": "Anki-Android_issue_10785_video_2", "retrieval_key": "ret522"}
+{"caption": "No response when tapping the answer button quickly", "clip_name": "Anki-Android_issue_9042_video_1", "retrieval_key": "ret523"}
+{"caption": "answer_options_layout is not showing above keyboard when Fullscreen Mode is on Hide the system bars", "clip_name": "Anki-Android_issue_13028_video_1", "retrieval_key": "ret524"}
+{"caption": "[GSoC] Add ability to browse one Card per Note in Browser", "clip_name": "Anki-Android_issue_12035_video_1", "retrieval_key": "ret525"}
+{"caption": "Reset to Default button in App bar button doesn't show warning..", "clip_name": "Anki-Android_issue_13174_video_1", "retrieval_key": "ret526"}
+{"caption": "Category heading on the toolbar of settings section", "clip_name": "Anki-Android_issue_11165_video_1", "retrieval_key": "ret527"}
+{"caption": "[Bug] On error-report-popup window, the default text in the input form is cut off in the middle", "clip_name": "Anki-Android_issue_10688_video_1", "retrieval_key": "ret528"}
+{"caption": "Fix crash when editing note and adding audio", "clip_name": "Anki-Android_issue_12867_video_1", "retrieval_key": "ret529"}
+{"caption": "[BUG]: SearchBox failing to appear when clicked for atleast second time", "clip_name": "Anki-Android_issue_13771_video_1", "retrieval_key": "ret530"}
+{"caption": "Replacing old splash screen with Android 12 Splash screen", "clip_name": "Anki-Android_issue_10886_video_1", "retrieval_key": "ret531"}
+{"caption": "[Bug] Undo button flashes on a different color after opening menu", "clip_name": "Anki-Android_issue_10697_video_1", "retrieval_key": "ret532"}
+{"caption": "[Bug] New cards don't go to its set location", "clip_name": "Anki-Android_issue_11024_video_2", "retrieval_key": "ret533"}
+{"caption": "Do not make a copy when reattaching the same audio file", "clip_name": "Anki-Android_issue_10419_video_1", "retrieval_key": "ret534"}
+{"caption": "[GSoC] Remove XXX replacement on preferences summaries", "clip_name": "Anki-Android_issue_11725_video_1", "retrieval_key": "ret535"}
+{"caption": "Close the Nav Drawer if same screen selected which was already opened", "clip_name": "Anki-Android_issue_10758_video_1", "retrieval_key": "ret536"}
+{"caption": "JS API to open card browser and search with query ", "clip_name": "Anki-Android_issue_9247_video_1", "retrieval_key": "ret537"}
+{"caption": "[Bug] App crashes when clicked when clicked on \"Deck Options\"", "clip_name": "Anki-Android_issue_10700_video_1", "retrieval_key": "ret538"}
+{"caption": "Invisible expanders are unnecessarily clickable and prevent decks from opening", "clip_name": "Anki-Android_issue_13034_video_1", "retrieval_key": "ret539"}
+{"caption": "Creating new deck with name same as any existing deck should give proper error message", "clip_name": "Anki-Android_issue_10401_video_1", "retrieval_key": "ret540"}
+{"caption": "[Bug] crash or the application is closing", "clip_name": "Anki-Android_issue_12937_video_1", "retrieval_key": "ret541"}
+{"caption": "SelectableDeck: Don't Keep Activities Crash", "clip_name": "Anki-Android_issue_10698_video_2", "retrieval_key": "ret542"}
+{"caption": "Toolbar is showing during review using FullScreen Mode/Hide the system bars", "clip_name": "Anki-Android_issue_13448_video_1", "retrieval_key": "ret543"}
+{"caption": "Version mismatch not checked in loading the backend library.", "clip_name": "Anki-Android_issue_11963_video_1", "retrieval_key": "ret544"}
+{"caption": "Make possible to commit hunks on Kotlin again", "clip_name": "Anki-Android_issue_11995_video_1", "retrieval_key": "ret545"}
+{"caption": "changed fab option icons to fit more to overall app theme", "clip_name": "Anki-Android_issue_9512_video_1", "retrieval_key": "ret546"}
+{"caption": "[Bug] Field in my card goes blank if I edit it", "clip_name": "Anki-Android_issue_11966_video_1", "retrieval_key": "ret547"}
+{"caption": "[GSoC] Fix sync button color", "clip_name": "Anki-Android_issue_11659_video_1", "retrieval_key": "ret548"}
+{"caption": "[Bug] Review activity Menu item icon get hidden after one or two time screen rotation ", "clip_name": "Anki-Android_issue_10732_video_1", "retrieval_key": "ret549"}
+{"caption": "[Bug] After deleting the last subdeck, the deck under the last-deleted subdeck is shown as if it were a subdeck", "clip_name": "Anki-Android_issue_10636_video_1", "retrieval_key": "ret550"}
+{"caption": "Don't hide flag and marked icons from minibar on fullscreen", "clip_name": "Anki-Android_issue_10891_video_1", "retrieval_key": "ret551"}
+{"caption": "Fix compress format and extension format.", "clip_name": "Anki-Android_issue_13052_video_1", "retrieval_key": "ret552"}
+{"caption": "Show keyboard in onResume state of Reviewer.kt", "clip_name": "Anki-Android_issue_13451_video_1", "retrieval_key": "ret553"}
+{"caption": "Toolbar is showing during review using FullScreen Mode/Hide the system bars", "clip_name": "Anki-Android_issue_13443_video_1", "retrieval_key": "ret554"}
+{"caption": "App Bar and Answer Buttons do not hide themselves, after manually making them visible in fullscreen mode.", "clip_name": "Anki-Android_issue_9511_video_1", "retrieval_key": "ret555"}
+{"caption": "[Bug] Search box not filled with required flag.", "clip_name": "Anki-Android_issue_13087_video_1", "retrieval_key": "ret556"}
+{"caption": "Added `delete note` button in the  Previewer (Help Wanted)", "clip_name": "Anki-Android_issue_10538_video_1", "retrieval_key": "ret557"}
+{"caption": "[Bug] Menu icons turn White after showing a new question with `Automatic display answer`", "clip_name": "Anki-Android_issue_11017_video_1", "retrieval_key": "ret558"}
+{"caption": "Add hint gesture/command", "clip_name": "Anki-Android_issue_10462_video_2", "retrieval_key": "ret559"}
+{"caption": "Fix Title to recall what gesture the window is for", "clip_name": "Anki-Android_issue_12329_video_2", "retrieval_key": "ret560"}
+{"caption": "SearchBox is appearing when clicking on the search icon", "clip_name": "Anki-Android_issue_13772_video_1", "retrieval_key": "ret561"}
+{"caption": "Audio file was played as video - unintuitive and unable to answer card", "clip_name": "Anki-Android_issue_9023_video_1", "retrieval_key": "ret562"}
+{"caption": "fixed NPE during sync", "clip_name": "Anki-Android_issue_11904_video_1", "retrieval_key": "ret563"}
+{"caption": "[Bug] The keyboard is not showing automatically when clicking on EditTextPreference (Search)", "clip_name": "Anki-Android_issue_13775_video_1", "retrieval_key": "ret564"}
+{"caption": "[GSoC] Kotlin migration Connection.java", "clip_name": "Anki-Android_issue_11633_video_1", "retrieval_key": "ret565"}
+{"caption": "Refactor `AggregateException`, making it translatable, & sligtly fix up the migration failed notification", "clip_name": "Anki-Android_issue_13762_video_1", "retrieval_key": "ret566"}
+{"caption": "Screen flickering when advancing through cards", "clip_name": "Anki-Android_issue_13426_video_2", "retrieval_key": "ret567"}
+{"caption": "[GSoC] Filter Bottom Sheet implementation", "clip_name": "Anki-Android_issue_11663_video_1", "retrieval_key": "ret568"}
+{"caption": "[GSoC] Kotlin migration Connection.java", "clip_name": "Anki-Android_issue_11633_video_2", "retrieval_key": "ret569"}
+{"caption": "App crashes when clicked on CountButton", "clip_name": "Anki-Android_issue_9063_video_1", "retrieval_key": "ret570"}
+{"caption": "Help: Back on dialog", "clip_name": "Anki-Android_issue_12559_video_1", "retrieval_key": "ret571"}
+{"caption": "Fixed alpha issues for FAB menu", "clip_name": "Anki-Android_issue_9907_video_3", "retrieval_key": "ret572"}
+{"caption": "fix: Third party apps link", "clip_name": "Anki-Android_issue_13571_video_1", "retrieval_key": "ret573"}
+{"caption": "fix: margin of Floating Action Button in Card Browser", "clip_name": "Anki-Android_issue_12159_video_2", "retrieval_key": "ret574"}
+{"caption": "fix: Search box is filled with required query of filter marked and filter suspended", "clip_name": "Anki-Android_issue_13416_video_2", "retrieval_key": "ret575"}
+{"caption": "Do not make a copy when reattaching the same audio or video file", "clip_name": "Anki-Android_issue_10422_video_1", "retrieval_key": "ret576"}
+{"caption": "Fix Filter sheet item colors not updating", "clip_name": "Anki-Android_issue_12378_video_1", "retrieval_key": "ret577"}
+{"caption": "[Bug] Text not showing ", "clip_name": "Anki-Android_issue_9072_video_1", "retrieval_key": "ret578"}
+{"caption": "Follow system dark mode", "clip_name": "Anki-Android_issue_10520_video_2", "retrieval_key": "ret579"}
+{"caption": "Use text from browser search bar as first field when adding new note added ", "clip_name": "Anki-Android_issue_8345_video_1", "retrieval_key": "ret580"}
+{"caption": "Explicitly Add Video Clips in Note Editor [issue #10212]", "clip_name": "Anki-Android_issue_10316_video_1", "retrieval_key": "ret581"}
+{"caption": "[Bug] After creating a subdeck, its parent deck's menu is displayed again", "clip_name": "Anki-Android_issue_10632_video_2", "retrieval_key": "ret582"}
+{"caption": "#13315 replaced MaterialDialog with AlertDialog in AbstractFlashcardViewer class", "clip_name": "Anki-Android_issue_13332_video_1", "retrieval_key": "ret583"}
+{"caption": "Fixed alpha issues for FAB menu", "clip_name": "Anki-Android_issue_9907_video_2", "retrieval_key": "ret584"}
+{"caption": "fixed the crash that occured due to `getResources()` error", "clip_name": "Anki-Android_issue_13086_video_1", "retrieval_key": "ret585"}
+{"caption": "Setting the time constraint in double back press to exit/return feature of DeckPicker and AbstractFlashCardViewer", "clip_name": "Anki-Android_issue_10679_video_1", "retrieval_key": "ret586"}
+{"caption": "[GSoC] migrated AnkiStatsTaskHandler.createChart() to suspend function", "clip_name": "Anki-Android_issue_11556_video_2", "retrieval_key": "ret587"}
+{"caption": "[Bug] The FAB does not disappear when searching decks", "clip_name": "Anki-Android_issue_10797_video_1", "retrieval_key": "ret588"}
+{"caption": "[Bug] Edit note & Replay audio buttons inconsistently appear based on initial screen rotation", "clip_name": "Anki-Android_issue_10683_video_1", "retrieval_key": "ret589"}
+{"caption": "Fix metered sync warning being shown if the user has no internet", "clip_name": "Anki-Android_issue_12259_video_1", "retrieval_key": "ret590"}
+{"caption": "[Bug] [2.16alpha54] Crash on opening `Deck options`", "clip_name": "Anki-Android_issue_10687_video_1", "retrieval_key": "ret591"}
+{"caption": "startActivityForResult migration in Preferences.kt", "clip_name": "Anki-Android_issue_10535_video_1", "retrieval_key": "ret592"}
+{"caption": "Removed forceful plural use with correct singular/plural form", "clip_name": "Anki-Android_issue_13078_video_2", "retrieval_key": "ret593"}
+{"caption": "Export selected cards from Browser", "clip_name": "Anki-Android_issue_12524_video_2", "retrieval_key": "ret594"}
+{"caption": "[GSoC] Add preference to allow/warn if using metered connections", "clip_name": "Anki-Android_issue_12121_video_1", "retrieval_key": "ret595"}
+{"caption": "[Bug] Crash in TAGs", "clip_name": "Anki-Android_issue_8890_video_1", "retrieval_key": "ret596"}
+{"caption": "TODO use snackbar instead of toast in deck dialogs", "clip_name": "Anki-Android_issue_12948_video_1", "retrieval_key": "ret597"}
+{"caption": "NF: Remove getbase:floatingactionbutton dependency", "clip_name": "Anki-Android_issue_11548_video_1", "retrieval_key": "ret598"}
+{"caption": "Added a switch preference in developer options to enable/disable leakCanary", "clip_name": "Anki-Android_issue_12987_video_1", "retrieval_key": "ret599"}
+{"caption": "Fix #8379 [Bug] Send Bug Report - Can't re-submit if cancelled", "clip_name": "Anki-Android_issue_8432_video_1", "retrieval_key": "ret600"}
+{"caption": "[Need Feedback/Help] Draft Fix for Study Shortcut Bug", "clip_name": "Anki-Android_issue_10902_video_1", "retrieval_key": "ret601"}
+{"caption": "[GSoC] migrated AnkiStatsTaskHandler.createStatisticsOverview() to suspend function", "clip_name": "Anki-Android_issue_11628_video_1", "retrieval_key": "ret602"}
+{"caption": "Fix Apply button crashing on no selection", "clip_name": "Anki-Android_issue_11875_video_1", "retrieval_key": "ret603"}
+{"caption": "Use `DeckSelectionDialog` on change deck", "clip_name": "Anki-Android_issue_10680_video_1", "retrieval_key": "ret604"}
+{"caption": "horizontalPadding to FixedEditText and showing warning instead of Toast ", "clip_name": "Anki-Android_issue_13640_video_1", "retrieval_key": "ret605"}
+{"caption": "[Bug]Enabling and disabling reminder notification for specific deck, will automatically enables and disables reminder for other decks.", "clip_name": "Anki-Android_issue_10595_video_1", "retrieval_key": "ret606"}
+{"caption": "fix: Disable search preview when there are no cards", "clip_name": "Anki-Android_issue_13492_video_1", "retrieval_key": "ret607"}
+{"caption": "Accessibility standards for Note Editor Toolbar", "clip_name": "Anki-Android_issue_8539_video_1", "retrieval_key": "ret608"}
+{"caption": "[GSoC] migrated LoadPronunciationActivity to Coroutines", "clip_name": "Anki-Android_issue_11681_video_1", "retrieval_key": "ret609"}
+{"caption": "fix: Search box is filled with required query of filter marked and filter suspended", "clip_name": "Anki-Android_issue_13416_video_1", "retrieval_key": "ret610"}
+{"caption": "feat: progress bar when previewing cards.", "clip_name": "Anki-Android_issue_9721_video_1", "retrieval_key": "ret611"}
+{"caption": "KeyBoard is not showing in onResume state of Reviewer Screen", "clip_name": "Anki-Android_issue_13450_video_1", "retrieval_key": "ret612"}
+{"caption": "Fix of issue #9503", "clip_name": "Anki-Android_issue_9702_video_2", "retrieval_key": "ret613"}
+{"caption": "[Bug] Immediately after tapping AnkiDroid-App-shortcut-menu items, unnecessary and insipid screens get shown   ", "clip_name": "Anki-Android_issue_10792_video_1", "retrieval_key": "ret614"}
+{"caption": "[Bug] Floating action button goes up after tapping \"Create deck\"", "clip_name": "Anki-Android_issue_11019_video_1", "retrieval_key": "ret615"}
+{"caption": "Can\u2019t access existing collection after upgrading from GitHub versions after alpha95 to a play version", "clip_name": "Anki-Android_issue_13588_video_1", "retrieval_key": "ret616"}
+{"caption": "Fix of issue #9503", "clip_name": "Anki-Android_issue_9702_video_1", "retrieval_key": "ret617"}
+{"caption": "fixed automatic creation of deck with name 'All decks'", "clip_name": "Anki-Android_issue_11907_video_2", "retrieval_key": "ret618"}
+{"caption": "Fixed alpha issues for FAB menu", "clip_name": "Anki-Android_issue_9907_video_1", "retrieval_key": "ret619"}
+{"caption": "New consistent card previewer UI", "clip_name": "Anki-Android_issue_6975_video_1", "retrieval_key": "ret620"}
+{"caption": "[Bug] Previews sometimes take place out of normal order and never end", "clip_name": "Anki-Android_issue_11576_video_1", "retrieval_key": "ret621"}
+{"caption": "[Bug] The language of the string of \"Card info\" screen top bar isn't changed by AnkiDroid settings", "clip_name": "Anki-Android_issue_10591_video_1", "retrieval_key": "ret622"}
+{"caption": "[EditNote][DeckSelectionDialog] Highlight Selected item", "clip_name": "Anki-Android_issue_9765_video_1", "retrieval_key": "ret623"}
+{"caption": "[JS Addons] list addons from addons directory", "clip_name": "Anki-Android_issue_10985_video_1", "retrieval_key": "ret624"}
+{"caption": "[Bug]App crashing while clicking on any deck on deck picker screen", "clip_name": "Anki-Android_issue_10734_video_1", "retrieval_key": "ret625"}
+{"caption": "Use inverse transition on finishing of screens opened by gestures", "clip_name": "Anki-Android_issue_11196_video_1", "retrieval_key": "ret626"}
+{"caption": "Don't show `Full sync` option if not logged on database error dialog", "clip_name": "Anki-Android_issue_10407_video_1", "retrieval_key": "ret627"}
+{"caption": "[GSoC] Reorganize some preferences + refactors", "clip_name": "Anki-Android_issue_11934_video_1", "retrieval_key": "ret628"}
+{"caption": "[GSoC] Implemented New notification preference UI", "clip_name": "Anki-Android_issue_12635_video_1", "retrieval_key": "ret629"}
+{"caption": "[Bug] Theme sometimes do not follow system dark mode on custom or auto schedule", "clip_name": "Anki-Android_issue_10619_video_1", "retrieval_key": "ret630"}
+{"caption": "Update to Android 12 splash screen API", "clip_name": "Anki-Android_issue_10791_video_1", "retrieval_key": "ret631"}
+{"caption": "[GSoC] preferences refactors + move \"Open changelog\" to the \"About\" screen", "clip_name": "Anki-Android_issue_12009_video_2", "retrieval_key": "ret632"}
+{"caption": "[GSoC] Add `Developer options` category", "clip_name": "Anki-Android_issue_11508_video_1", "retrieval_key": "ret633"}
+{"caption": "Fixed #12251 : Keyboard not shown when focusing HTML input/contenteditable elements", "clip_name": "Anki-Android_issue_12588_video_1", "retrieval_key": "ret634"}
+{"caption": "[Bug] Ripple effect is accompanied by another ripple on Decks screen\u3000", "clip_name": "Anki-Android_issue_10634_video_2", "retrieval_key": "ret635"}
+{"caption": "[Bug] On Answer KEYDOWN SPACE will skip the Question on KEYUP", "clip_name": "Anki-Android_issue_9958_video_1", "retrieval_key": "ret636"}
+{"caption": "Add support to `<audio>` and `<object>` tags", "clip_name": "Anki-Android_issue_11390_video_1", "retrieval_key": "ret637"}
+{"caption": "[Bug] The language of the estimated studying time on Reviewer screen isn't changed after AnkiDroid language is changed", "clip_name": "Anki-Android_issue_12888_video_1", "retrieval_key": "ret638"}
+{"caption": "Removed forceful plural use with correct singular/plural form", "clip_name": "Anki-Android_issue_13078_video_1", "retrieval_key": "ret639"}
+{"caption": "#10442 Preferences title isn't reupdated after opening a screen optio\u2026", "clip_name": "Anki-Android_issue_10457_video_1", "retrieval_key": "ret640"}
+{"caption": "Make CardTemplateEditor show where error", "clip_name": "Anki-Android_issue_11702_video_1", "retrieval_key": "ret641"}
+{"caption": "migration from startActivityForResult to new API in ModelBrowser.java", "clip_name": "Anki-Android_issue_10533_video_2", "retrieval_key": "ret642"}
+{"caption": "[Bug Fixed] Handle rotation of Whiteboard when drawing", "clip_name": "Anki-Android_issue_11623_video_1", "retrieval_key": "ret643"}
+{"caption": "Update FAB UI for more intuitive double tapping", "clip_name": "Anki-Android_issue_12280_video_2", "retrieval_key": "ret644"}
+{"caption": "[Bug] Reviewer isn't updated on changed settings while it is open", "clip_name": "Anki-Android_issue_11046_video_1", "retrieval_key": "ret645"}
+{"caption": "feat: whiteboard editor with custom color pen.", "clip_name": "Anki-Android_issue_9946_video_1", "retrieval_key": "ret646"}
+{"caption": "[GSoC] Add a search bar to the settings screen", "clip_name": "Anki-Android_issue_11778_video_1", "retrieval_key": "ret647"}
+{"caption": "[Bug] Floating action buttons have different margins", "clip_name": "Anki-Android_issue_12158_video_1", "retrieval_key": "ret648"}
+{"caption": "Fixed the navigation of filtered deck options activity", "clip_name": "Anki-Android_issue_12506_video_1", "retrieval_key": "ret649"}
+{"caption": "changed string splitting from spaces to comma", "clip_name": "Anki-Android_issue_9218_video_1", "retrieval_key": "ret650"}
+{"caption": "Showing warning on FixedEditText instead of Toast", "clip_name": "Anki-Android_issue_13632_video_1", "retrieval_key": "ret651"}
+{"caption": "Automatic open keyboard for DeckOptions items", "clip_name": "Anki-Android_issue_11053_video_1", "retrieval_key": "ret652"}
+{"caption": "Can't preview the card answer or more than one card if \"Answer Button Position\"  is set to \"None\" ", "clip_name": "Anki-Android_issue_12045_video_1", "retrieval_key": "ret653"}
+{"caption": "[GSoC] Unify gestures with controls", "clip_name": "Anki-Android_issue_11647_video_1", "retrieval_key": "ret654"}
+{"caption": "[BUG]: Open the \"create a new subdeck\" dialog in card browser on the \"All Decks\" item creates a new deck named \"All Decks\"", "clip_name": "Anki-Android_issue_13387_video_1", "retrieval_key": "ret655"}
+{"caption": "Update when FAB should close or hide while navigating the app", "clip_name": "Anki-Android_issue_10854_video_1", "retrieval_key": "ret656"}
+{"caption": "[Kotlin migration] CardTemplateBrowserAppearanceEditor", "clip_name": "Anki-Android_issue_10736_video_1", "retrieval_key": "ret657"}
+{"caption": "Implement better download and import system for shared decks", "clip_name": "Anki-Android_issue_9229_video_1", "retrieval_key": "ret658"}
+{"caption": "fix: margin of Floating Action Button in Card Browser", "clip_name": "Anki-Android_issue_12159_video_1", "retrieval_key": "ret659"}
+{"caption": "Add hint gesture/command", "clip_name": "Anki-Android_issue_10462_video_1", "retrieval_key": "ret660"}
+{"caption": "[BUG]: A toast for Scoped Migration is shown in the system language instead of the configured language", "clip_name": "Anki-Android_issue_13458_video_1", "retrieval_key": "ret661"}
+{"caption": "Search box is filled with the required flag when `filter by flag`", "clip_name": "Anki-Android_issue_13088_video_1", "retrieval_key": "ret662"}
+{"caption": "fix: Disable \"force full sync\" preference when user is not logged in", "clip_name": "Anki-Android_issue_13379_video_1", "retrieval_key": "ret663"}
+{"caption": "Localize backups date and add Choose another button", "clip_name": "Anki-Android_issue_10396_video_2", "retrieval_key": "ret664"}
+{"caption": "Solved double ripple effect.", "clip_name": "Anki-Android_issue_10702_video_1", "retrieval_key": "ret665"}
+{"caption": "Make invisible expanders unclickable", "clip_name": "Anki-Android_issue_13035_video_1", "retrieval_key": "ret666"}
+{"caption": "open keyboard when rescheduling a card", "clip_name": "Anki-Android_issue_10593_video_1", "retrieval_key": "ret667"}
+{"caption": "Fix for the translation issue of the estimated studying time on Reviewer screen", "clip_name": "Anki-Android_issue_12889_video_1", "retrieval_key": "ret668"}
+{"caption": "[Bug] The time unit string on App bar doesn't get changed after changing language on AnkiDroid", "clip_name": "Anki-Android_issue_10772_video_1", "retrieval_key": "ret669"}
+{"caption": "Visual glitch while app bar is hidden + user selects an item", "clip_name": "MaterialFiles_issue_698_video_1", "retrieval_key": "ret670"}
+{"caption": "Why folders/(folders+ files) share failing when we choose some particular services from android share menu?", "clip_name": "MaterialFiles_issue_575_video_1", "retrieval_key": "ret671"}
+{"caption": "Breadcrumb ripple glitch when app bar is collapsed", "clip_name": "MaterialFiles_issue_497_video_1", "retrieval_key": "ret672"}
+{"caption": "Cannot open file in Archive: root isn't available", "clip_name": "MaterialFiles_issue_779_video_1", "retrieval_key": "ret673"}
+{"caption": "Alternative method of accessing data and obb", "clip_name": "MaterialFiles_issue_899_video_1", "retrieval_key": "ret674"}
+{"caption": "FTP Client recursively only lists root directory", "clip_name": "MaterialFiles_issue_894_video_1", "retrieval_key": "ret675"}
+{"caption": "[Bug Report] Crashes on app Split view", "clip_name": "MaterialFiles_issue_574_video_1", "retrieval_key": "ret676"}
+{"caption": "Open MaterialFiles without flashing \u2e2e\u2e2e\u2e2e ", "clip_name": "MaterialFiles_issue_570_video_1", "retrieval_key": "ret677"}
+{"caption": "[Bug] Cannot set mod after set it to 0000", "clip_name": "MaterialFiles_issue_825_video_1", "retrieval_key": "ret678"}
+{"caption": "Data loss in the activities AddStorageDialogActivity and FileListActivity", "clip_name": "MaterialFiles_issue_623_video_1", "retrieval_key": "ret679"}
+{"caption": "/data/system \u76ee\u5f55\u4e0b\u4f1a\u9ad8\u9891\u5237\u65b0\u5217\u8868\u5bfc\u81f4\u754c\u9762\u6301\u7eed\u95ea\u70c1", "clip_name": "MaterialFiles_issue_567_video_1", "retrieval_key": "ret680"}
+{"caption": "Animation tearing issue when accessing drawer", "clip_name": "MaterialFiles_issue_712_video_1", "retrieval_key": "ret681"}
+{"caption": "[Fix] Fix Data loss in the activities AddStorageDialogActivity and Fi\u2026", "clip_name": "MaterialFiles_issue_624_video_1", "retrieval_key": "ret682"}
+{"caption": "Option to show history when keyboard is visible in Minimal UI mode", "clip_name": "KISS_issue_1812_video_1", "retrieval_key": "ret683"}
+{"caption": "Kuss launcher crashes after attempting to select a custom icon for an app in my favorites.", "clip_name": "KISS_issue_1942_video_1", "retrieval_key": "ret684"}
+{"caption": "Widgets are not being added.", "clip_name": "KISS_issue_1854_video_1", "retrieval_key": "ret685"}
+{"caption": "Serious rendering issues on wallpaper", "clip_name": "KISS_issue_1925_video_1", "retrieval_key": "ret686"}
+{"caption": "Swiping Recents applications left and right doesn't work properly ", "clip_name": "KISS_issue_1837_video_1", "retrieval_key": "ret687"}
+{"caption": "Flickering scroll bar", "clip_name": "KISS_issue_1915_video_1", "retrieval_key": "ret688"}
+{"caption": "Search functionality probably doesn't work as intended", "clip_name": "KISS_issue_2065_video_1", "retrieval_key": "ret689"}
+{"caption": "Multiple favorites \"pages\"", "clip_name": "KISS_issue_2048_video_1", "retrieval_key": "ret690"}
+{"caption": "search results occasionaly flicker", "clip_name": "KISS_issue_1938_video_1", "retrieval_key": "ret691"}
+{"caption": "unlimited widgets", "clip_name": "KISS_issue_2014_video_1", "retrieval_key": "ret692"}
+{"caption": "First character in search bar appears twice when using Microsoft SwiftKey", "clip_name": "KISS_issue_1977_video_1", "retrieval_key": "ret693"}
+{"caption": "Markdown edit mode - text visually overwrites lines above with bigger headings enabled", "clip_name": "markor_issue_1948_video_2", "retrieval_key": "ret694"}
+{"caption": "Crash: after install markor 2.10.0 , if I don't give permission to markor, app will crash", "clip_name": "markor_issue_1763_video_1", "retrieval_key": "ret695"}
+{"caption": "When renaming using lowercase form of the existing note name, the existing file will be overwritten", "clip_name": "markor_issue_1695_video_1", "retrieval_key": "ret696"}
+{"caption": "\u201dSpecial key\" layout cut off in landscape orientation", "clip_name": "markor_issue_1800_video_1", "retrieval_key": "ret697"}
+{"caption": "Search in View discards at first try automatically when defaulting to View Mode", "clip_name": "markor_issue_789_video_1", "retrieval_key": "ret698"}
+{"caption": "If the renaming character contains \"?\" , the renaming will be invalid", "clip_name": "markor_issue_1668_video_1", "retrieval_key": "ret699"}
+{"caption": "auto-scroll test #699", "clip_name": "markor_issue_1338_video_1", "retrieval_key": "ret700"}
+{"caption": "Crash: after install markor 2.10.0 , if I don't give permission to markor, app will crash", "clip_name": "markor_issue_1763_video_2", "retrieval_key": "ret701"}
+{"caption": "\u201dSpecial key\" layout cut off in landscape orientation", "clip_name": "markor_issue_1800_video_2", "retrieval_key": "ret702"}
+{"caption": "Markdown edit mode - text visually overwrites lines above with bigger headings enabled", "clip_name": "markor_issue_1948_video_1", "retrieval_key": "ret703"}
+{"caption": "[feature request] Ticking checkboxes in viewing mode.", "clip_name": "markor_issue_1506_video_1", "retrieval_key": "ret704"}
+{"caption": "Have issues with files sometimes not listed at filemanager", "clip_name": "markor_issue_1366_video_1", "retrieval_key": "ret705"}
+{"caption": "There is a search function in the root directory, but no files can be searched ", "clip_name": "markor_issue_1652_video_1", "retrieval_key": "ret706"}
+{"caption": "tooltips for editor tools", "clip_name": "markor_issue_829_video_1", "retrieval_key": "ret707"}
+{"caption": "Close keyboard when clicking in the background", "clip_name": "AntennaPod_issue_5435_video_2", "retrieval_key": "ret708"}
+{"caption": "Inbox screen seems completely redrawn when swiping in some cases", "clip_name": "AntennaPod_issue_6357_video_1", "retrieval_key": "ret709"}
+{"caption": "Click a podcast, stuck in an infinite wait on version 2.6.1", "clip_name": "AntennaPod_issue_5979_video_2", "retrieval_key": "ret710"}
+{"caption": "Filter dialog on rotated screen is broken", "clip_name": "AntennaPod_issue_5977_video_2", "retrieval_key": "ret711"}
+{"caption": "add default state expanded filter dialog", "clip_name": "AntennaPod_issue_6155_video_1", "retrieval_key": "ret712"}
+{"caption": "Quick note taking ability within the podcast and a screen to view all notes", "clip_name": "AntennaPod_issue_5030_video_1", "retrieval_key": "ret713"}
+{"caption": "Play screen Play/Pause icon not filled (just outline)", "clip_name": "AntennaPod_issue_5091_video_1", "retrieval_key": "ret714"}
+{"caption": "Make episode (download) status clearer in multi-select", "clip_name": "AntennaPod_issue_6202_video_1", "retrieval_key": "ret715"}
+{"caption": "Currently playing episode is categorized as \"Paused\" in filter", "clip_name": "AntennaPod_issue_6020_video_1", "retrieval_key": "ret716"}
+{"caption": "Swipe gesture to navigate to side menu", "clip_name": "AntennaPod_issue_5543_video_1", "retrieval_key": "ret717"}
+{"caption": "Remove Podcast Not Working", "clip_name": "AntennaPod_issue_5822_video_1", "retrieval_key": "ret718"}
+{"caption": "'Shownotes' tab title size keeps changing", "clip_name": "AntennaPod_issue_5090_video_1", "retrieval_key": "ret719"}
+{"caption": "The filter cancel button will disappear if I rotate device from landscape to portrait", "clip_name": "AntennaPod_issue_5978_video_1", "retrieval_key": "ret720"}
+{"caption": "2.6.1 crashes every 5 seconds", "clip_name": "AntennaPod_issue_5965_video_2", "retrieval_key": "ret721"}
+{"caption": "2.6.1 crashes every 5 seconds", "clip_name": "AntennaPod_issue_5965_video_1", "retrieval_key": "ret722"}
+{"caption": "add default state expanded filter dialog", "clip_name": "AntennaPod_issue_6155_video_2", "retrieval_key": "ret723"}
+{"caption": "Buggy UI while hiding the media control page", "clip_name": "AntennaPod_issue_6524_video_1", "retrieval_key": "ret724"}
+{"caption": "Currently playing episode is categorized as \"Paused\" in filter", "clip_name": "AntennaPod_issue_6020_video_2", "retrieval_key": "ret725"}
+{"caption": "After the player is paused, clicking \"skip\" does not respond", "clip_name": "AntennaPod_issue_5863_video_1", "retrieval_key": "ret726"}
+{"caption": "Closing Keyboard when clicked in the background", "clip_name": "AntennaPod_issue_5437_video_1", "retrieval_key": "ret727"}
+{"caption": "Filter dialog on rotated screen is broken", "clip_name": "AntennaPod_issue_5977_video_1", "retrieval_key": "ret728"}
+{"caption": "Close keyboard when clicking in the background", "clip_name": "AntennaPod_issue_5435_video_1", "retrieval_key": "ret729"}
+{"caption": "Cover image disappears while scrolling the Queue", "clip_name": "AntennaPod_issue_5922_video_1", "retrieval_key": "ret730"}
+{"caption": "Click a podcast, stuck in an infinite wait on version 2.6.1", "clip_name": "AntennaPod_issue_5979_video_1", "retrieval_key": "ret731"}
+{"caption": "Support for podcast:value tag", "clip_name": "AntennaPod_issue_4671_video_1", "retrieval_key": "ret732"}
+{"caption": "Random input for proxy port will cause crush.", "clip_name": "AntennaPod_issue_6209_video_1", "retrieval_key": "ret733"}
+{"caption": "Fixed: After canceling a sharing, application goes back to the search menu #2296", "clip_name": "apps-android-commons_issue_5156_video_1", "retrieval_key": "ret734"}
+{"caption": "App crashes on trying to upload a media directly from camera.", "clip_name": "apps-android-commons_issue_4238_video_1", "retrieval_key": "ret735"}
+{"caption": "Fixed the issue #4806: Now, \"Location Not Found\" pop appears only one\u2026", "clip_name": "apps-android-commons_issue_4807_video_1", "retrieval_key": "ret736"}
+{"caption": "fixed: When the coordinates have been copied from another picture, explain it in description #4700", "clip_name": "apps-android-commons_issue_5166_video_1", "retrieval_key": "ret737"}
+{"caption": "Tap to view fails issue resolved", "clip_name": "apps-android-commons_issue_4656_video_1", "retrieval_key": "ret738"}
+{"caption": "Display campaigns setting is not disable  on left sliding the notification", "clip_name": "apps-android-commons_issue_4268_video_1", "retrieval_key": "ret739"}
+{"caption": "Fixed #4750 : \"Exists\" is enabled by default for map view", "clip_name": "apps-android-commons_issue_4838_video_1", "retrieval_key": "ret740"}
+{"caption": "App crash On categoryDetail activity when click on image  after orientation change ", "clip_name": "apps-android-commons_issue_4385_video_1", "retrieval_key": "ret741"}
+{"caption": "Fixed the issue #4806: Now, \"Location Not Found\" pop appears only one\u2026", "clip_name": "apps-android-commons_issue_4807_video_2", "retrieval_key": "ret742"}
+{"caption": "fix:click on skip button in Peer Review after orientation change then app is crashed", "clip_name": "apps-android-commons_issue_4176_video_1", "retrieval_key": "ret743"}
+{"caption": "Contributions: Same 3 images repeat forever", "clip_name": "apps-android-commons_issue_2892_video_1", "retrieval_key": "ret744"}
+{"caption": "App crashes when selecting \"star\" in menu", "clip_name": "apps-android-commons_issue_4742_video_1", "retrieval_key": "ret745"}
+{"caption": "Sometimes can't copy/paste from/to Upload caption field", "clip_name": "apps-android-commons_issue_4469_video_1", "retrieval_key": "ret746"}
+{"caption": "App crashes on switching between contribution tab and nearby tab fastly", "clip_name": "apps-android-commons_issue_4269_video_1", "retrieval_key": "ret747"}
+{"caption": "Added advanced query support in Nearby", "clip_name": "apps-android-commons_issue_4714_video_1", "retrieval_key": "ret748"}
+{"caption": "Fix #5104: popup shown when tapping an already uploaded image in Medi\u2026", "clip_name": "apps-android-commons_issue_5127_video_1", "retrieval_key": "ret749"}
+{"caption": "App crashes in ExploreListRootFragment ", "clip_name": "apps-android-commons_issue_4224_video_1", "retrieval_key": "ret750"}
+{"caption": "Media details categories editor: Category not actually added", "clip_name": "apps-android-commons_issue_4278_video_1", "retrieval_key": "ret751"}
+{"caption": "App crash in WikidataItemDetailsActivity on clicking any media", "clip_name": "apps-android-commons_issue_4244_video_1", "retrieval_key": "ret752"}
+{"caption": "Added Themed Scrollbar", "clip_name": "apps-android-commons_issue_4576_video_1", "retrieval_key": "ret753"}
+{"caption": "Limited connection enabled mode not working", "clip_name": "apps-android-commons_issue_4174_video_1", "retrieval_key": "ret754"}
+{"caption": "[WIP] targetSdkVersion updated", "clip_name": "apps-android-commons_issue_4453_video_1", "retrieval_key": "ret755"}
+{"caption": "App crashes when pressing back button in bookmarks fragment", "clip_name": "apps-android-commons_issue_4226_video_1", "retrieval_key": "ret756"}
+{"caption": "No images are showing in Items media tab", "clip_name": "apps-android-commons_issue_4532_video_1", "retrieval_key": "ret757"}
+{"caption": "Exists and Needs Photo does not response if Location is not available.", "clip_name": "apps-android-commons_issue_4335_video_1", "retrieval_key": "ret758"}
+{"caption": "List state not retained, on coming back to explore fragment from media detail fragment after choosing any media.", "clip_name": "apps-android-commons_issue_4151_video_1", "retrieval_key": "ret759"}
+{"caption": "On Explore Tab, All Available Options on toolbar in media detail view are only targeting the first media in the list.", "clip_name": "apps-android-commons_issue_4159_video_1", "retrieval_key": "ret760"}
+{"caption": "Added Themed Scrollbar", "clip_name": "apps-android-commons_issue_4576_video_2", "retrieval_key": "ret761"}
+{"caption": "Fixes #4300 Limited connection mode banner occupies too much space", "clip_name": "apps-android-commons_issue_4375_video_1", "retrieval_key": "ret762"}
+{"caption": "Nearby screen flashes in a particular case when denying permission", "clip_name": "apps-android-commons_issue_4765_video_1", "retrieval_key": "ret763"}
+{"caption": "[WIP] targetSdkVersion updated", "clip_name": "apps-android-commons_issue_4453_video_2", "retrieval_key": "ret764"}
+{"caption": "fixing: Duplicate filename notification completely replaces image-found-on-internet warning #5180", "clip_name": "apps-android-commons_issue_5192_video_1", "retrieval_key": "ret765"}
+{"caption": "Add Themed Scrollbar", "clip_name": "apps-android-commons_issue_4575_video_1", "retrieval_key": "ret766"}
+{"caption": "App crash in CategoryDetailsActivity when click on any media", "clip_name": "apps-android-commons_issue_4196_video_1", "retrieval_key": "ret767"}
+{"caption": "Added a feature for editing coordinates", "clip_name": "apps-android-commons_issue_4418_video_1", "retrieval_key": "ret768"}
+{"caption": "Made locale non dependent on phone OS settings, but choosable on app settings", "clip_name": "apps-android-commons_issue_4366_video_1", "retrieval_key": "ret769"}
+{"caption": "READ_EXTERNAL_STORAGE permission is not necessary while picking file from gallery", "clip_name": "apps-android-commons_issue_4356_video_1", "retrieval_key": "ret770"}
+{"caption": "[Bug]: in the details of a photo tapping on license doesn't redirect to the License link(wiki link, for example)", "clip_name": "apps-android-commons_issue_5219_video_1", "retrieval_key": "ret771"}
+{"caption": "Cannot tap on some streets to get their name for AddressStreet quest", "clip_name": "StreetComplete_issue_4974_video_1", "retrieval_key": "ret772"}
+{"caption": "curb extensions in parking overlay + add entrances in building overlay", "clip_name": "StreetComplete_issue_4976_video_1", "retrieval_key": "ret773"}
+{"caption": "Make it easier to reach top items in \"Select\" windows (e.g. cycleway quest)", "clip_name": "StreetComplete_issue_2651_video_2", "retrieval_key": "ret774"}
+{"caption": "Redundant \"tactile paving\" quest being asked - both on kerbs and on highway=crossing node", "clip_name": "StreetComplete_issue_3407_video_1", "retrieval_key": "ret775"}
+{"caption": "Crash in splitscreen mode when opening keyboard in other app", "clip_name": "StreetComplete_issue_2943_video_1", "retrieval_key": "ret776"}
+{"caption": "(When no GPS signal) clicking GPS button does not return to North, even when follow-me is disabled", "clip_name": "StreetComplete_issue_3147_video_1", "retrieval_key": "ret777"}
+{"caption": "Street names are automatically title-cased in locales where they shouldn't be", "clip_name": "StreetComplete_issue_4784_video_1", "retrieval_key": "ret778"}
+{"caption": "Unable to assign street by tapping on quest", "clip_name": "StreetComplete_issue_4327_video_1", "retrieval_key": "ret779"}
+{"caption": "Unable to abort / reinitiate \"scan area\"", "clip_name": "StreetComplete_issue_3406_video_1", "retrieval_key": "ret780"}
+{"caption": "Lower priority quest hides higher priority quests?", "clip_name": "StreetComplete_issue_3519_video_1", "retrieval_key": "ret781"}
+{"caption": "Quest is asked again immediately after solving it", "clip_name": "StreetComplete_issue_4258_video_1", "retrieval_key": "ret782"}
+{"caption": "\"Discard input?\" dialog shown even when nothing was input", "clip_name": "StreetComplete_issue_4118_video_1", "retrieval_key": "ret783"}
+{"caption": "Changing language inside the app does not cover all cases", "clip_name": "StreetComplete_issue_3520_video_1", "retrieval_key": "ret784"}
+{"caption": "Lit overlay doesn't allow to split ways (confirm button missing)", "clip_name": "StreetComplete_issue_4963_video_1", "retrieval_key": "ret785"}
+{"caption": "Bike lane layer drops in and out", "clip_name": "StreetComplete_issue_4964_video_1", "retrieval_key": "ret786"}
+{"caption": "Add support for the predictive back gesture", "clip_name": "StreetComplete_issue_4984_video_1", "retrieval_key": "ret787"}
+{"caption": "Building type quest refuses to disappear when solved", "clip_name": "StreetComplete_issue_3290_video_1", "retrieval_key": "ret788"}
+{"caption": "Do not create bitmap with height 0 in PointerPinView", "clip_name": "StreetComplete_issue_2949_video_2", "retrieval_key": "ret789"}
+{"caption": "Quest interface improvements \"What is signed at the entrance?\"", "clip_name": "StreetComplete_issue_4160_video_1", "retrieval_key": "ret790"}
+{"caption": "The small circles that replace pins when zoomed out are positioned too high", "clip_name": "StreetComplete_issue_2650_video_1", "retrieval_key": "ret791"}
+{"caption": "Recording and Uploading of GPX Traces", "clip_name": "StreetComplete_issue_3573_video_1", "retrieval_key": "ret792"}
+{"caption": "The solution of a quest hides an unrelated (nearby) quest", "clip_name": "StreetComplete_issue_4371_video_1", "retrieval_key": "ret793"}
+{"caption": "Better indicate when there is no GPS signal", "clip_name": "StreetComplete_issue_3944_video_1", "retrieval_key": "ret794"}
+{"caption": "Bouncing balls are teleporting with animation duration scale set to off", "clip_name": "StreetComplete_issue_2906_video_1", "retrieval_key": "ret795"}
+{"caption": "Hidden quests are shown on the first download", "clip_name": "StreetComplete_issue_4159_video_1", "retrieval_key": "ret796"}
+{"caption": "Cannot take photo for note", "clip_name": "StreetComplete_issue_2410_video_1", "retrieval_key": "ret797"}
+{"caption": "Cycleway resurvey quest applies incorrect tags for one-way streets", "clip_name": "StreetComplete_issue_4774_video_1", "retrieval_key": "ret798"}
+{"caption": "Shoulder quest selection buttons are swapped", "clip_name": "StreetComplete_issue_4116_video_1", "retrieval_key": "ret799"}
