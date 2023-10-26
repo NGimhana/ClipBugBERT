@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>PermanentRedirect</Code><Message>The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.</Message><Endpoint>uploads.hipchat.com.s3.amazonaws.com</Endpoint><Bucket>uploads.hipchat.com</Bucket><RequestId>EN4EJWN6NDMA30XG</RequestId><HostId>dV6y/LNGi9eLAGMzHhd1ZKGznGVBbbQC3KTOopTmWio7GfrcJX81dvJhes87VVnA6YDKFpJJMK8=</HostId></Error>
